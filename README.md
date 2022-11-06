@@ -3,7 +3,7 @@
 
 🔭 I’m currently learning AI/ML
 
-🌱 Finishing my 4th year CS Bachelor's @UC Berkeley <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/1200px-Seal_of_University_of_California%2C_Berkeley.svg.png">
+🌱 Finishing CS Bachelor's @ UC Berkeley <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/1200px-Seal_of_University_of_California%2C_Berkeley.svg.png">
 
 💬 Ask me about best practices/clean code
 
