@@ -3,7 +3,7 @@
 
 <a>https://michaellelubich.ml</a>
 
-I'm a Software QA Engineer at Apple. I try to make the repetitive & mundane automatable — (think scraping and parsing!) so we can focus on the harder, more interesting stuff :) 
+I'm a Software QA Engineer at Apple, CoreOS — File Systems team. I try to make the repetitive & mundane automatable — (think scraping and parsing!) so we can focus on the harder, more interesting stuff :) 
 
 
 
