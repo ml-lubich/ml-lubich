@@ -21,10 +21,11 @@ Software QA Engineer @  Apple
 <img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU"></code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
+ ### ⚡ Github Stats
 <a href="https://github.com/ml-lubich">
    <img src="https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Misha Lubich's Github Stats" width=450px/>
 </a>
- 
+<!--  
  ### ⚡ Github Stats
 <table>
   <tr>
@@ -35,4 +36,4 @@ Software QA Engineer @  Apple
   </td>
   </tr>
 </table>
-
+ -->
