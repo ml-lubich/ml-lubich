@@ -1,9 +1,11 @@
 ### Hi, I'm Misha 👋
-<img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic" alt="ml-lubich" />
+<img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic" alt="ml-lubich"/></img>
 
 <a>https://michaellelubich.ml</a>
 
- Currently: Software QA Engineer @ Apple
+I'm a Software QA Engineer at Apple. I try to make the repetitive & mundane automatable — (think scraping and parsing!) so we can focus on the harder, more interesting stuff :) 
+
+
 
 🔭 Learning AI/ML
 
@@ -13,7 +15,7 @@
 
 🔗 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
 
-📫 Or reach out via [email](mailto:mishalubich007@berkeley.edu)
+📫 Or reach out via mishalubich007@berkeley.edu
 
 **Languages and Tools:**  
 
