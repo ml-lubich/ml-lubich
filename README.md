@@ -3,7 +3,7 @@
 
 <a>https://michaellelubich.ml</a>
 
- Currently a Software QA Engineer @ Apple
+ Currently: Software QA Engineer @ Apple
 
 🔭 Learning AI/ML
 
