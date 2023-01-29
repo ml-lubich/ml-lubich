@@ -3,13 +3,13 @@
 
 <a>https://michaellelubich.ml</a>
 
-Software QA Engineer @  Apple
+ Currently a Software QA Engineer @ Apple
 
-🔭 I’m currently learning AI/ML
+🔭 Learning AI/ML
 
 🌱 Finishing Computer Science @ UC Berkeley <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/1200px-Seal_of_University_of_California%2C_Berkeley.svg.png">
 
-💬 Ask me about entrepreneurship & best practices/clean code
+💬 Ask me about entrepreneurship, best practices/clean code and automation!
 
 🔗 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
 
