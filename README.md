@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic" alt="ml-lubich"/></img>
 ### Hi, I'm Misha 👋
-<a>https://michaellelubich.ml</a>
+<a>https://mishalubich.com</a>
 
 I'm a Software QA Engineer at Apple, CoreOS — File Systems team.<br>
 I try to make the repetitive & mundane automatable (think scraping and parsing!) so we can focus on the more challenging, more interesting stuff :) 
