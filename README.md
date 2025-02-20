@@ -1,39 +1,28 @@
-<img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic" alt="ml-lubich"/></img>
+<img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic" alt="ml-lubich"/>
 ### Hi, I'm Misha 👋
-<a>https://mishalubich.com</a>
+<a href="https://mishalubich.com">https://mishalubich.com</a>
 
-I'm a Software QA Engineer at Apple, CoreOS — File Systems team.<br>
-I try to make the repetitive & mundane automatable (think scraping and parsing!) so we can focus on the more challenging, more interesting stuff :) 
+I'm a **Software Engineer** passionate about transforming repetitive tasks into dynamic automation and tooling. I design and build efficient systems—from custom scraping and parsing frameworks to robust CI/CD pipelines—empowering teams to focus on innovative, challenging projects. By integrating cloud-native architectures, containerization, and advanced AI/ML techniques, I streamline workflows and drive productivity.
 
-🔭 Learning AI/ML
+🔭 **Currently exploring:** Advanced AI/ML and cloud automation  
+🌱 **Finalizing:** Computer Science @ UC Berkeley  
+💬 **Ask me about:** Entrepreneurship, clean code best practices, and automating processes to elevate productivity!
 
-🌱 Finishing Computer Science @ UC Berkeley
-
-💬 Ask me about entrepreneurship, best practices/clean code and automation!
-
-🔗 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
-
-📫 Or reach out via mishalubich007@berkeley.edu
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/misha-lubich/)  
+📫 Reach out via mishalubich007@berkeley.edu
 
 **Languages and Tools:**  
+<code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU" alt="Tool Icon"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 
-<code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
-<img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU"></code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+**Additional Technologies & Expertise:**  
+- **Automation & Tooling:** Custom scripts, scraping frameworks, CI/CD pipelines  
+- **Containerization & Cloud:** Docker, Kubernetes, AWS, GCP, Azure  
+- **Web Development:** Modern frontend frameworks (React, Vue) and backend technologies (Node.js)  
+- **Data Science & ML:** TensorFlow, PyTorch, Scikit-learn
 
- ### ⚡ Github Stats
+### ⚡ Github Stats
 <a href="https://github.com/ml-lubich">
-   <img src="https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Misha Lubich's Github Stats" width=450px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Misha Lubich's Github Stats" width="450px"/>
 </a>
-<!--  
- ### ⚡ Github Stats
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ml-lubich&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
-   </tr>
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=ml-lubich&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
-  </td>
-  </tr>
-</table>
- -->
