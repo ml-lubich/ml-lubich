@@ -1,36 +1,74 @@
-<!-- Profile Views Badge -->
+# Hi, I'm Misha Lubich 👋
+### Software Engineer | Automation & Tooling Expert | Cloud-Native Enthusiast
 ![Profile views](https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic)
 
-### Hi, I'm Misha 👋
+---
 
-[https://mishalubich.com](https://mishalubich.com)
+### 👨‍💻 About Me
+I'm a Software Engineer passionate about transforming complex, repetitive tasks into elegant, automated solutions. With a foundation in Computer Science from **UC Berkeley** and hands-on experience at industry leaders like **Apple**, **Walmart**, and **Polaris Wireless**, I specialize in designing and building efficient, scalable systems. From custom scraping frameworks and robust CI/CD pipelines to high-performance backend APIs, my work empowers teams to shift their focus from manual overhead to innovative, high-impact projects. I thrive on leveraging cloud-native architectures, containerization, and advanced AI/ML to streamline workflows, boost productivity, and build software that makes a difference.
 
-I'm a **Software Engineer** passionate about transforming repetitive tasks into dynamic automation and tooling. I design and build efficient systems—from custom scraping and parsing frameworks to robust CI/CD pipelines—empowering teams to focus on innovative, challenging projects. By integrating cloud-native architectures, containerization, and advanced AI/ML techniques, I streamline workflows and drive productivity.
-
-🔭 **Currently exploring:** Advanced AI/ML and cloud automation  
-🌱 **Finalizing:** Computer Science @ UC Berkeley  
-💬 **Ask me about:** Entrepreneurship, clean code best practices, and automating processes to elevate productivity!
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/misha-lubich/)  
-📫 Reach out via mishalubich007@berkeley.edu
+- 🔭 **Currently:** Engineering robust CI/CD pipelines and scalable data ingestion systems at **Polaris Wireless**.
+- 🌱 **Exploring:** Advanced AI/ML applications, distributed systems, and cloud automation.
+- 💬 **Ask me about:** System design, clean code practices, entrepreneurship, and automating anything and everything.
+- 🔗 **Connect:** [Website](https://mishalubich.com) | [LinkedIn](https://www.linkedin.com/in/misha-lubich/) | [Google Scholar](https://scholar.google.com/citations?user=your_scholar_id)  - 📫 **Email:** [mishalubich007@berkeley.edu](mailto:mishalubich007@berkeley.edu)
 
 ---
 
-**Languages & Tools:**
+### 🛠️ My Tech Stack
 
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="20" height="20"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU" alt="Tool Icon" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="20" height="20"/>
+**Languages & Frameworks:**
+<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="24" height="24"/>
 
-**Additional Technologies & Expertise:**
+**DevOps & Cloud:**
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="Ansible" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/google/google.png" alt="GCP" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="24" height="24"/>
 
-- **Automation & Tooling:** Custom scripts, scraping frameworks, CI/CD pipelines  
-- **Containerization & Cloud:** Docker, Kubernetes, AWS, GCP, Azure  
-- **Web Development:** Modern frontend frameworks (React, Vue) and backend technologies (Node.js)  
-- **Data Science & ML:** TensorFlow, PyTorch, Scikit-learn
+**Tools & Monitoring:**
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" width="24" height="24"/>&nbsp;
 
 ---
 
-### ⚡ GitHub Stats
+### 🚀 My Experience in a Nutshell
+
+-   **Polaris Wireless (`Sep 2024 - Present`):**
+    -   Engineered CI/CD pipelines with Jenkins, **cutting deployment times by 50%**.
+    -   Led a cross-functional team of 4, improving team productivity by 20%.
+    -   Designed data ingestion pipelines with Spark/Hadoop to process **10M+ records daily**.
+
+-   **Apple (`Jan 2023 - Jul 2024`):**
+    -   Migrated legacy test scripts to Python, achieving a **300% improvement in automation efficiency**.
+    -   Resolved over **1,100 high-priority tickets** for APFS, impacting 100M+ macOS users.
+    -   Automated workflows with Ansible, **improving deployment efficiency by 200%**.
+
+-   **Walmart (`May 2022 - Aug 2022`):**
+    -   Built REST APIs managing **50,000+ data items daily**, reducing latency by 60%.
+    -   Enhanced backend performance by **300%** using Java and Spring Boot.
+    -   Developed ad-delivery systems that **increased revenue by $2 million annually**.
+
+---
+
+### 💡 Featured Projects
+
+-   **[Equiverse.ml](https://equiverse.ml):** An AI-driven platform enhancing educational equity and resource accessibility for over **5,000 underrepresented students**.
+-   **[Flyoneo.ml](https://flyoneo.ml):** Co-founded an AI/ML startup and led a team of 8 to launch an MVP with over **1,500 active users**.
+-   **Pintos Operating System:** Refactored core OS functionality, achieving a **40% performance improvement** through optimized code architecture.
+-   **Encrypted File Sharing System:** Built a secure, end-to-end encrypted file-sharing system that **increased data transfer speeds by 50%**.
+
+---
+
+### 📊 GitHub Stats
 
 [![Misha Lubich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact)](https://github.com/ml-lubich)
