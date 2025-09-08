@@ -64,11 +64,8 @@ I'm a Software Engineer passionate about transforming complex, repetitive tasks 
 
 ### 💡 Featured Projects
 
--   **[Equiverse.ml](https://equiverse.ml):** An AI-driven platform enhancing educational equity and resource accessibility for over **5,000 underrepresented students**.
--   **[Flyoneo.ml](https://flyoneo.ml):** Co-founded an AI/ML startup and led a team of 8 to launch an MVP with over **1,500 active users**.
--   **Pintos Operating System:** Refactored core OS functionality, achieving a **40% performance improvement** through optimized code architecture.
--   **Encrypted File Sharing System:** Built a secure, end-to-end encrypted file-sharing system that **increased data transfer speeds by 50%**.
-
+-   **[enrichdata.net](https://enrichdata.net):** An AI-driven CRM-enhancing platform providing custom solutions at affordable prices**.
+-   
 ---
 
 ### 📊 GitHub Stats
