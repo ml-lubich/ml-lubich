@@ -64,7 +64,7 @@ I'm a Software Engineer passionate about transforming complex, repetitive tasks 
 
 ### 💡 Featured Projects
 
--   **[enrichdata.net](https://enrichdata.net):** An AI-driven CRM-enhancing platform providing custom solutions at affordable prices**.
+-   **[enrichdata.net](https://enrichdata.net):** An AI-driven CRM-enhancing platform providing custom solutions at affordable prices.
    
 ---
 
