@@ -43,25 +43,6 @@ I'm a Software Engineer passionate about transforming complex, repetitive tasks 
 
 ---
 
-### 🚀 My Experience in a Nutshell
-
--   **Polaris Wireless (`Sep 2024 - Present`):**
-    -   Engineered CI/CD pipelines with Jenkins, **cutting deployment times by 50%**.
-    -   Led a cross-functional team of 4, improving team productivity by 20%.
-    -   Designed data ingestion pipelines with Spark/Hadoop to process **10M+ records daily**.
-
--   **Apple (`Jan 2023 - Jul 2024`):**
-    -   Migrated legacy test scripts to Python, achieving a **300% improvement in automation efficiency**.
-    -   Resolved over **1,100 high-priority tickets** for APFS, impacting 100M+ macOS users.
-    -   Automated workflows with Ansible, **improving deployment efficiency by 200%**.
-
--   **Walmart (`May 2022 - Aug 2022`):**
-    -   Built REST APIs managing **50,000+ data items daily**, reducing latency by 60%.
-    -   Enhanced backend performance by **300%** using Java and Spring Boot.
-    -   Developed ad-delivery systems that **increased revenue by $2 million annually**.
-
----
-
 ### 💡 Featured Projects
 
 -   **[enrichdata.net](https://enrichdata.net):** An AI-driven CRM-enhancing platform providing custom solutions at affordable prices.
