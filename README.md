@@ -1,54 +1,48 @@
 # Hi, I'm Misha Lubich 👋
-### Software Engineer | Automation & Tooling Expert | AI & Cloud-Native Enthusiast
+### Senior AI Engineer & Technical Leader | Building Scalable AI Systems
 ![Profile views](https://komarev.com/ghpvc/?username=ml-lubich&label=Views&color=blue&style=plastic)
 
-[https://mishalubich.com](https://mishalubich.com)
+**[mishalubich.com](https://mishalubich.com)** · **[LinkedIn](https://www.linkedin.com/in/misha-lubich/)** · **[Google Scholar](https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ)**
 
 ---
 
 ### 👨‍💻 About Me
-I'm a Software Engineer passionate about transforming complex, repetitive tasks into elegant, automated solutions. With a foundation in Computer Science from **UC Berkeley** and hands-on experience at industry leaders like **Apple**, **Walmart**, and **Polaris Wireless**, I specialize in designing and building efficient, scalable systems. From custom scraping frameworks and robust CI/CD pipelines to high-performance backend APIs, my work empowers teams to shift their focus from manual overhead to innovative, high-impact projects. I thrive on leveraging cloud-native architectures, containerization, and advanced AI/ML to streamline workflows, boost productivity, and build software that makes a difference.
+Senior AI Engineer specializing in **AI-driven, cloud-native applications** that scale to millions of users. Led the design and deployment of production AI platforms with multi-agent orchestration at **Braintrust Data**, **Apple**, and **Walmart**. UC Berkeley CS grad with 6 published research papers and 100M+ users impacted.
 
-- 🔭 **Currently:** Engineering robust CI/CD pipelines and scalable data ingestion systems at **Polaris Wireless**.
-- 🌱 **Exploring:** Advanced AI/ML applications, distributed systems, and cloud automation.
-- 💬 **Ask me about:** System design, clean code practices, entrepreneurship, and automating anything and everything.
-- 🔗 **Connect:** [Website](https://mishalubich.com) | [LinkedIn](https://www.linkedin.com/in/misha-lubich/) | [Google Scholar](https://scholar.google.com/citations?user=your_scholar_id)  - 📫 **Email:** [mishalubich007@berkeley.edu](mailto:mishalubich007@berkeley.edu)
-
----
-
-### 🛠️ My Tech Stack
-
-**Languages & Frameworks:**
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="24" height="24"/>
-
-**DevOps & Cloud:**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="Ansible" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/google/google.png" alt="GCP" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="24" height="24"/>
-
-**Tools & Monitoring:**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="24" height="24"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" width="24" height="24"/>&nbsp;
+- 🔭 **Currently:** Building AI-powered SaaS products & leading ML platform development at **Braintrust Data**
+- 🌱 **Exploring:** Multi-agent systems, RAG pipelines, production ML at scale
+- 💬 **Ask me about:** AI/ML systems, system design, clean code, shipping fast
+- 📫 **Email:** [Michaelle.lubich@gmail.com](mailto:Michaelle.lubich@gmail.com)
 
 ---
 
-### 💡 Featured Projects
+### 🛠️ Tech Stack
 
--   **[enrichdata.net](https://enrichdata.net):** An AI-driven CRM-enhancing platform providing custom solutions at affordable prices.
-   
+**Languages:** Python · TypeScript · Go · Java · C++ · Rust · SQL  
+**AI/ML:** PyTorch · TensorFlow · LangChain · OpenAI · RAG · Fine-Tuning · Multi-Agent Systems  
+**Frontend:** React · Next.js · Tailwind CSS · Framer Motion  
+**Backend:** Node.js · FastAPI · PostgreSQL · Supabase · Redis  
+**Cloud:** AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform  
+**Tools:** Git · CI/CD · MLOps · Prompt Engineering
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Lupfr** | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
+| **Reviewly** | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
+| **ScrapeChatAI** | Chat-based web scraper with AI-generated Playwright scripts | [scrapechat.vercel.app](https://scrapechat.vercel.app) |
+| **LeadPipe AI** | AI-powered lead generation for local trade businesses | [leadpipe-two.vercel.app](https://leadpipe-two.vercel.app) |
+| **W3Sourcing** | Premium recruitment website for Tech, Legal & Finance | [w3sourcing.vercel.app](https://w3sourcing.vercel.app) |
+| **EnrichData** | AI-driven CRM enhancement platform | [enrichdata.net](https://enrichdata.net) |
+| **Portfolio** | Personal portfolio with 2026 animations & glassmorphism | [mishalubich.com](https://mishalubich.com) |
+
 ---
 
 ### 📊 GitHub Stats
 
-[![Misha Lubich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact)](https://github.com/ml-lubich)
+[![Misha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact)](https://github.com/ml-lubich)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&theme=gotham)](https://github.com/ml-lubich)
