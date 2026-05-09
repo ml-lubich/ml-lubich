@@ -35,7 +35,7 @@ Senior AI Engineer specializing in **AI-driven, cloud-native applications** that
 | **Reviewly** | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
 | **ScrapeChatAI** | Chat-based web scraper with AI-generated Playwright scripts | [scrapechat.vercel.app](https://scrapechat.vercel.app) |
 | **LeadPipe AI** | AI-powered lead generation for local trade businesses | [leadpipe-two.vercel.app](https://leadpipe-two.vercel.app) |
-| **W3Sourcing** | Premium recruitment website for Tech, Legal & Finance | [w3sourcing.vercel.app](https://w3sourcing.vercel.app) |
+| **W3Sourcing** | Premium recruitment website for Tech, Legal & Finance | [w3sourcing.vercel.app](https://w3sourcing.com) |
 | **EnrichData** | AI-driven CRM enhancement platform | [enrichdata.net](https://enrichdata.net) |
 | **Portfolio** | Personal portfolio with 2026 animations & glassmorphism | [mishalubich.com](https://mishalubich.com) |
 
