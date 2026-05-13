@@ -21,7 +21,7 @@
 
 ---
 
-### � Table of Contents
+### 📚 Table of Contents
 
 - [About Me](#-about-me)
 - [What I'm Building](#-what-im-building)
@@ -33,7 +33,7 @@
 
 ---
 
-### �👨‍💻 About Me
+### 👨‍💻 About Me
 
 Senior AI Engineer specializing in **AI-driven, cloud-native applications** that scale to millions of users. Led the design and deployment of production AI platforms with multi-agent orchestration at **Braintrust Data**, **Apple**, and **Walmart**. UC Berkeley CS grad with 6 published research papers and 100M+ users impacted.
 
@@ -44,7 +44,7 @@ Senior AI Engineer specializing in **AI-driven, cloud-native applications** that
 
 ---
 
-### �️ What I'm Building
+### 🏗️ What I'm Building
 
 ```mermaid
 flowchart LR
@@ -77,7 +77,7 @@ flowchart LR
 
 ---
 
-### �🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,postgres&perline=8" alt="Languages" /><br/>
