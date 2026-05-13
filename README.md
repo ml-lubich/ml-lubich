@@ -38,7 +38,6 @@
 - [3D Contribution Calendar](#-3d-contribution-calendar)
 - [Contribution Snake](#-contribution-snake)
 - [Top Repos](#-top-repos)
-- [Spotify](#-now-playing)
 
 ---
 
@@ -199,33 +198,17 @@ flowchart LR
 ### 📌 Top Repos
 
 <p align="center">
-  <a href="https://github.com/ml-lubich/ai-video-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-lubich&repo=ai-video-generator&theme=gotham" alt="ai-video-generator" />
-  </a>
-  <a href="https://github.com/ml-lubich/website-scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-lubich&repo=website-scraper&theme=gotham" alt="website-scraper" />
+  <a href="https://github.com/ml-lubich?tab=repositories&sort=stargazers">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ml-lubich&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top contributed repos" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ml-lubich/music-sentimental-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-lubich&repo=music-sentimental-analysis&theme=gotham" alt="music-sentimental-analysis" />
-  </a>
-  <a href="https://github.com/ml-lubich/cute-svgs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ml-lubich&repo=cute-svgs&theme=gotham" alt="cute-svgs" />
-  </a>
-</p>
-
----
-
-### 🎧 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/ml-lubich">
-    <img src="https://novatorem-five-iota.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
+  <a href="https://github.com/ml-lubich/ai-video-generator"><img src="https://img.shields.io/badge/-ai--video--generator-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ml-lubich/website-scraper"><img src="https://img.shields.io/badge/-website--scraper-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ml-lubich/music-sentimental-analysis"><img src="https://img.shields.io/badge/-music--sentimental--analysis-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ml-lubich/cute-svgs"><img src="https://img.shields.io/badge/-cute--svgs-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<sub align="center"><i>(Spotify widget shows once you deploy your own Novatorem instance — see <a href="https://github.com/novatorem/novatorem">novatorem</a>.)</i></sub>
 
 ---
 
