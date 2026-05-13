@@ -28,8 +28,8 @@
 ### 📚 Table of Contents
 
 - [About Me](#-about-me)
-- [What I'm Building](#-what-im-building)
-- [Tech Stack](#️-tech-stack)
+- [What I'm Building](#-what-im-building)- [Career timeline](#-career-timeline)
+- [Skill graph](#-skill-graph)- [Tech Stack](#️-tech-stack)
 - [Featured Projects](#-featured-projects)
 - [GitHub Stats](#-github-stats)
 - [Profile Summary](#-profile-summary)
@@ -85,7 +85,58 @@ flowchart LR
 
 ---
 
-### 🛠️ Tech Stack
+### � Career timeline
+
+```mermaid
+timeline
+    title Career trajectory
+    2017 : UC Berkeley CS undergrad
+         : LBNL research intern
+    2018 : Honda Innovations intern
+    2019 : Apple — Siri ML engineer
+    2020 : Walmart Global Tech — ML platform
+    2022 : Polaris Wireless — geolocation ML
+    2024 : Braintrust Data — AI platform lead
+    2025 : Indie SaaS — Reviewly · LeadPipe · ScrapeChat
+```
+
+---
+
+### 🧠 Skill graph
+
+```mermaid
+flowchart LR
+    AI(("AI / ML"))
+    SYS(("Systems"))
+    PROD(("Product"))
+
+    LLM["LLMs · RAG · agents"]
+    DL["PyTorch · fine-tuning"]
+    MLOPS["MLOps · evals · obs"]
+    DIST["distributed compute"]
+    CLOUD["AWS · GCP · k8s"]
+    DB["Postgres · Supabase · Redis"]
+    WEB["Next.js · React · Tailwind"]
+    UX["product · UX · pricing"]
+    SHIP["ship fast · iterate"]
+
+    AI --> LLM
+    AI --> DL
+    AI --> MLOPS
+    SYS --> DIST
+    SYS --> CLOUD
+    SYS --> DB
+    PROD --> WEB
+    PROD --> UX
+    PROD --> SHIP
+    MLOPS -.-> CLOUD
+    LLM   -.-> WEB
+    DB    -.-> WEB
+```
+
+---
+
+### �🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,postgres&perline=8" alt="Languages" /><br/>
