@@ -285,3 +285,14 @@ mindmap
     files
       README.md
 ```
+
+
+## 📊 Code composition
+
+File-type breakdown of source under this repo (skips `.git`, `node_modules`, build caches, lockfiles).
+
+```mermaid
+pie showData title File-type composition of ml-lubich (11 files)
+    "SVG image" : 10
+    "Markdown" : 1
+```
