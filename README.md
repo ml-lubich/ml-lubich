@@ -120,10 +120,10 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/ml-lubich">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en" alt="Misha's GitHub Stats" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&cache_seconds=86400" alt="Misha's GitHub Stats" />
   </a>
   <a href="https://github.com/ml-lubich">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&theme=gotham" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&theme=gotham&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
