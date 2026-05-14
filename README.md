@@ -85,18 +85,17 @@ flowchart LR
 
 ---
 
-### � Career timeline
+### 🧭 Career timeline
 
 ```mermaid
 timeline
     title Career trajectory
-    2017 : UC Berkeley CS undergrad
-         : LBNL research intern
-    2018 : Honda Innovations intern
-    2019 : Apple — Siri ML engineer
-    2020 : Walmart Global Tech — ML platform
-    2022 : Polaris Wireless — geolocation ML
-    2024 : Braintrust Data — AI platform lead
+    2019 : UC Berkeley — CS undergrad
+    2021 : Honda Innovations — SWE intern (ML route optimization)
+         : LBNL — ML research intern (env. data)
+    2022 : Walmart Global Tech — SWE intern (ad-targeting ML, Spring Boot)
+    2023 : Apple — SDET, CoreOS / File Systems (APFS, LLM-assisted automation)
+    2024 : Independent consulting — lupfr.com · w3sourcing.com
     2025 : Indie SaaS — Reviewly · LeadPipe · ScrapeChat
 ```
 
