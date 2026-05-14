@@ -41,6 +41,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 Senior AI Engineer specializing in **AI-driven, cloud-native applications** that scale to millions of users. Led the design and deployment of production AI platforms with multi-agent orchestration at **Braintrust Data**, **Apple**, and **Walmart**. UC Berkeley CS grad with 6 published research papers and 100M+ users impacted.
@@ -135,7 +143,7 @@ flowchart LR
 
 ---
 
-### �🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,postgres&perline=8" alt="Languages" /><br/>
@@ -193,15 +201,7 @@ flowchart LR
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### 💡 Random Dev Quote
+###  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Readme Quotes" />
