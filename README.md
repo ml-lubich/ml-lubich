@@ -125,20 +125,20 @@ flowchart LR
     FDE(("Forward Deploy"))
     PROD(("Product"))
 
-    LLM["Claude · GPT · Gemini · RAG"]
-    AGENT["MCP servers · sub-agents · agent skills"]
-    PROMPT["prompt + context engineering"]
-    EVAL["evals · guardrails · obs (RAGAS · DeepEval · LangSmith)"]
-    DL["PyTorch · fine-tuning (LoRA · QLoRA)"]
-    DIST["distributed compute · streaming"]
-    CLOUD["AWS · GCP · Azure · k8s · Bedrock · Vertex"]
-    DB["Postgres · pgvector · Supabase · Redis"]
-    DISCOVERY["customer discovery · workflow scoping"]
-    DELIVERY["white-glove deployment · rollout patterns"]
-    HIGH["high agency · ambiguity · cross-functional"]
-    WEB["Next.js · React · Tailwind · FastAPI"]
-    UX["product · UX · pricing"]
-    SHIP["ship fast · iterate · eval-driven"]
+    LLM["Claude · GPT<br/>Gemini · RAG"]
+    AGENT["MCP servers<br/>sub-agents<br/>agent skills"]
+    PROMPT["prompt +<br/>context eng."]
+    EVAL["evals · guardrails<br/>obs (RAGAS<br/>DeepEval · LangSmith)"]
+    DL["PyTorch<br/>fine-tuning<br/>(LoRA · QLoRA)"]
+    DIST["distributed compute<br/>streaming"]
+    CLOUD["AWS · GCP · Azure<br/>k8s · Bedrock · Vertex"]
+    DB["Postgres · pgvector<br/>Supabase · Redis"]
+    DISCOVERY["customer discovery<br/>workflow scoping"]
+    DELIVERY["white-glove deploy<br/>rollout patterns"]
+    HIGH["high agency<br/>ambiguity<br/>cross-functional"]
+    WEB["Next.js · React<br/>Tailwind · FastAPI"]
+    UX["product · UX<br/>pricing"]
+    SHIP["ship fast · iterate<br/>eval-driven"]
 
     AI --> LLM
     AI --> AGENT
