@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
 <h1 align="center">Hi, I'm Misha Lubich 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=720&lines=Senior+AI+Engineer+%26+Technical+Leader;Building+Scalable+AI+Systems;Multi-Agent+Orchestration+%7C+RAG+%7C+MLOps;Shipping+production+ML+at+100M%2B+user+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=820&lines=Forward-Deployed+AI+Engineer;Customer-Embedded+Production+LLM+Delivery;Claude+%2B+MCP+servers+%2B+sub-agents+%2B+agent+skills;Multi-Agent+Orchestration+%7C+RAG+%7C+Evals+%7C+Guardrails;Shipping+production+ML+at+100M%2B+user+scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -51,11 +51,12 @@
 
 ### 👨‍💻 About Me
 
-Senior AI Engineer specializing in **AI-driven, cloud-native applications** that scale to millions of users. Led the design and deployment of production AI platforms with multi-agent orchestration at **Braintrust Data**, **Apple**, and **Walmart**. UC Berkeley CS grad with 6 published research papers and 100M+ users impacted.
+Forward-deployed AI engineer specializing in **customer-embedded production LLM delivery**. I sit with enterprise teams, scope real workflows, and ship Claude- and multi-model-powered applications hardened with evals, guardrails, and observability. Designed and deployed a production AI platform with multi-agent orchestration, MCP tool servers, sub-agents and RAG pipelines serving millions at sub-second P95. UC Berkeley CS grad with 6 published research papers and 100M+ users impacted.
 
-- 🔭 **Currently:** Building AI-powered SaaS products & leading ML platform development at **Braintrust Data**
-- 🌱 **Exploring:** Multi-agent systems, RAG pipelines, production ML at scale
-- 💬 **Ask me about:** AI/ML systems, system design, clean code, shipping fast
+- 🔭 **Currently:** Shipping production agentic systems — MCP servers, sub-agents, agent skills, eval harnesses
+- 🤝 **How I work:** Embedded with customer engineering and domain teams; high agency under ambiguity; codify reusable deployment patterns
+- 🧠 **Stack:** Claude (Sonnet/Opus/Haiku) · Anthropic API · OpenAI · Gemini · Python · TypeScript · FastAPI · Next.js · AWS / GCP / Azure
+- 💬 **Ask me about:** Production LLM apps, agent design, prompt + context engineering, eval-driven iteration, customer discovery → rollout
 - 📫 **Email:** [Michaelle.lubich@gmail.com](mailto:Michaelle.lubich@gmail.com)
 
 ---
@@ -65,29 +66,35 @@ Senior AI Engineer specializing in **AI-driven, cloud-native applications** that
 ```mermaid
 flowchart LR
     ME(("👨‍💻<br/>Misha"))
-    AI{{"🤖 AI Platforms<br/>multi-agent · RAG · MLOps"}}
+    AI{{"🤖 Production AI<br/>Claude · MCP · sub-agents · agent skills"}}
+    FDE["🤝 Forward-Deployed<br/>discovery · scoping · rollout"]
     SAAS["🚀 Vertical SaaS<br/>Reviewly · LeadPipe · ScrapeChat"]
     WEB["🌐 Web · TypeScript<br/>Next.js · Tailwind · Bun"]
-    PY["🐍 Python · ML<br/>PyTorch · LangChain · OpenAI"]
-    INFRA["☁️ Cloud / Infra<br/>AWS · GCP · K8s · Terraform"]
+    PY["🐍 Python · ML<br/>PyTorch · LangChain · LangGraph · CrewAI"]
+    EVAL["🧪 Evals · Guardrails<br/>RAGAS · DeepEval · LangSmith"]
+    INFRA["☁️ Cloud / Infra<br/>AWS · GCP · K8s · Terraform · Bedrock · Vertex"]
     USERS[/"📈 100M+ users<br/>shipped"/]
 
+    ME --> FDE
     ME --> AI
     ME --> SAAS
+    FDE --> AI
     AI --> PY
+    AI --> EVAL
     SAAS --> WEB
     AI --> INFRA
     SAAS --> INFRA
     AI --> USERS
     SAAS --> USERS
+    FDE --> USERS
 
     classDef io fill:#0e1116,stroke:#2f81f7,stroke-width:1.5px,color:#e6edf3;
     classDef brain fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#e6edf3;
     classDef tool fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#e6edf3;
     classDef out fill:#0e1116,stroke:#a371f7,stroke-width:1.5px,color:#e6edf3;
     class ME io;
-    class AI brain;
-    class SAAS,WEB,PY,INFRA tool;
+    class AI,FDE brain;
+    class SAAS,WEB,PY,INFRA,EVAL tool;
     class USERS out;
 ```
 
@@ -115,30 +122,43 @@ timeline
 flowchart LR
     AI(("AI / ML"))
     SYS(("Systems"))
+    FDE(("Forward Deploy"))
     PROD(("Product"))
 
-    LLM["LLMs · RAG · agents"]
-    DL["PyTorch · fine-tuning"]
-    MLOPS["MLOps · evals · obs"]
-    DIST["distributed compute"]
-    CLOUD["AWS · GCP · k8s"]
-    DB["Postgres · Supabase · Redis"]
-    WEB["Next.js · React · Tailwind"]
+    LLM["Claude · GPT · Gemini · RAG"]
+    AGENT["MCP servers · sub-agents · agent skills"]
+    PROMPT["prompt + context engineering"]
+    EVAL["evals · guardrails · obs (RAGAS · DeepEval · LangSmith)"]
+    DL["PyTorch · fine-tuning (LoRA · QLoRA)"]
+    DIST["distributed compute · streaming"]
+    CLOUD["AWS · GCP · Azure · k8s · Bedrock · Vertex"]
+    DB["Postgres · pgvector · Supabase · Redis"]
+    DISCOVERY["customer discovery · workflow scoping"]
+    DELIVERY["white-glove deployment · rollout patterns"]
+    HIGH["high agency · ambiguity · cross-functional"]
+    WEB["Next.js · React · Tailwind · FastAPI"]
     UX["product · UX · pricing"]
-    SHIP["ship fast · iterate"]
+    SHIP["ship fast · iterate · eval-driven"]
 
     AI --> LLM
+    AI --> AGENT
+    AI --> PROMPT
+    AI --> EVAL
     AI --> DL
-    AI --> MLOPS
     SYS --> DIST
     SYS --> CLOUD
     SYS --> DB
+    FDE --> DISCOVERY
+    FDE --> DELIVERY
+    FDE --> HIGH
     PROD --> WEB
     PROD --> UX
     PROD --> SHIP
-    MLOPS -.-> CLOUD
+    AGENT -.-> EVAL
+    EVAL  -.-> CLOUD
     LLM   -.-> WEB
     DB    -.-> WEB
+    DELIVERY -.-> AGENT
 ```
 
 ---
@@ -152,11 +172,16 @@ flowchart LR
 </p>
 
 **Languages:** Python · TypeScript · Go · Java · C++ · Rust · SQL  
-**AI/ML:** PyTorch · TensorFlow · LangChain · OpenAI · RAG · Fine-Tuning · Multi-Agent Systems  
-**Frontend:** React · Next.js · Tailwind CSS · Framer Motion  
-**Backend:** Node.js · FastAPI · PostgreSQL · Supabase · Redis  
-**Cloud:** AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform  
-**Tools:** Git · CI/CD · MLOps · Prompt Engineering
+**LLMs & APIs:** Claude (Sonnet · Opus · Haiku) · Anthropic API · OpenAI · Gemini · Llama · Qwen · DeepSeek · Bedrock · Vertex AI · Azure OpenAI  
+**Agents & Tooling:** MCP tool servers · sub-agents · agent skills · multi-agent orchestration (CrewAI · LangGraph) · LangChain · LlamaIndex · function calling · structured output (Pydantic)  
+**RAG & Vectors:** RAG pipelines · adaptive chunking · re-ranking · pgvector · FAISS · Pinecone · ChromaDB  
+**Prompt & Context Engineering:** advanced prompt design · context engineering · guardrails · prompt-injection defense · OWASP LLM Top 10  
+**Eval & Observability:** RAGAS · DeepEval · LangSmith · offline/online eval harnesses · A/B testing · Prometheus · Grafana · OpenTelemetry · Datadog  
+**Fine-Tuning & Training:** PyTorch · TensorFlow · LoRA · QLoRA · vLLM · SageMaker · MLflow  
+**Frontend:** React · Next.js · Tailwind CSS · Framer Motion · Streamlit · Gradio  
+**Backend:** Node.js · FastAPI · Spring Boot · PostgreSQL · Supabase · Redis · Kafka · gRPC  
+**Cloud:** AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · Pulumi  
+**Customer Delivery:** technical discovery · workflow scoping · white-glove enterprise rollout · reusable deployment patterns · stakeholder communication · high-agency operation under ambiguity
 
 ---
 
