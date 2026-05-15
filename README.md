@@ -290,33 +290,3 @@ flowchart LR
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
 </p>
-
-
-## 🗺️ Repository map
-
-Top-level layout of `ml-lubich` rendered as a Mermaid mindmap (auto-generated from the on-disk tree).
-
-```mermaid
-mindmap
-  root((ml-lubich))
-    profile-3d-contrib/
-      profile-gitblock.svg
-      profile-green-animate.svg
-      profile-green.svg
-      profile-night-green.svg
-      profile-night-rainbow.svg
-      profile-night-view.svg
-    files
-      README.md
-```
-
-
-## 📊 Code composition
-
-File-type breakdown of source under this repo (skips `.git`, `node_modules`, build caches, lockfiles).
-
-```mermaid
-pie showData title File-type composition of ml-lubich (11 files)
-    "SVG image" : 10
-    "Markdown" : 1
-```
