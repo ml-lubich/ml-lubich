@@ -166,13 +166,10 @@ flowchart LR
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,cs,kotlin&perline=8" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,react,nextjs,tailwind,nodejs,fastapi&perline=8" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=flask,django,graphql,express,spring,svelte,vue,angular&perline=8" alt="More Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,docker,kubernetes,terraform,redis&perline=8" alt="Cloud & DevOps" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,firebase,cassandra,kafka&perline=8" alt="Databases" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,nginx,ansible,jenkins,githubactions&perline=8" alt="Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,grafana,prometheus,elasticsearch,sentry,cloudflare&perline=8" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,cs,kotlin,pytorch,tensorflow,openai,react,nextjs,tailwind&perline=14" alt="Languages & AI" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,graphql,express,spring,svelte,vue,angular,aws,gcp,azure,vercel&perline=14" alt="Frameworks & Cloud" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,redis,postgres,mongodb,mysql,sqlite,supabase,firebase,cassandra,kafka,git,github&perline=14" alt="DevOps & Databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,ansible,jenkins,githubactions,vscode,figma,postman,grafana,prometheus,elasticsearch,sentry,cloudflare&perline=14" alt="Tooling" />
 </p>
 
 **Languages:** Python · TypeScript · Go · Java · C++ · Rust · SQL  
