@@ -169,7 +169,9 @@ flowchart LR
   <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,cs,kotlin,pytorch,tensorflow,openai,react,nextjs,tailwind&perline=14" alt="Languages & AI" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,graphql,express,spring,svelte,vue,angular,aws,gcp,azure,vercel&perline=14" alt="Frameworks & Cloud" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,redis,postgres,mongodb,mysql,sqlite,supabase,firebase,cassandra,kafka,git,github&perline=14" alt="DevOps & Databases" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,ansible,jenkins,githubactions,vscode,figma,postman,grafana,prometheus,elasticsearch,sentry,cloudflare&perline=14" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,ansible,jenkins,githubactions,vscode,figma,postman,grafana,prometheus,elasticsearch,sentry,cloudflare&perline=14" alt="Tooling" /><br/>
+  <img src="https://skillicons.dev/icons?i=bun,deno,astro,vite,prisma,remix,tauri,electron,flutter,dart,swift,ruby,php,elixir&perline=14" alt="2026 Stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=threejs,scala,haskell,lua,r,unity,unreal,blender,jest,cypress,gitlab,bitbucket,notion,discord&perline=14" alt="More Tools" />
 </p>
 
 **Languages:** Python · TypeScript · Go · Java · C++ · Rust · SQL  
