@@ -255,11 +255,22 @@ flowchart LR
 
 ---
 
-### 🏆 Trophies
+### 📦 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ml-lubich&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="Trophies" />
+  <a href="https://github.com/ml-lubich/ai-video-generator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=ai-video-generator&theme=gotham" />
+  </a>
+  <a href="https://github.com/ml-lubich/music-sentimental-analysis">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=music-sentimental-analysis&theme=gotham" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ml-lubich/website-scraper">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=website-scraper&theme=gotham" />
+  </a>
+  <a href="https://github.com/ml-lubich/cute-svgs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=cute-svgs&theme=gotham" />
   </a>
 </p>
 
