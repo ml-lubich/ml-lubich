@@ -273,12 +273,6 @@ flowchart LR
 ### 📌 Top Repos
 
 <p align="center">
-  <a href="https://github.com/ml-lubich?tab=repositories&sort=stargazers">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ml-lubich&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ml-lubich/ai-video-generator"><img src="https://img.shields.io/badge/-ai--video--generator-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/ml-lubich/website-scraper"><img src="https://img.shields.io/badge/-website--scraper-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/ml-lubich/music-sentimental-analysis"><img src="https://img.shields.io/badge/-music--sentimental--analysis-1f2937?style=for-the-badge&logo=github&logoColor=white" /></a>
