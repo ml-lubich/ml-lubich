@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0d1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4" alt="Google Scholar" /></a>
   <a href="mailto:Michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/📅%20Book%20a%20Call-0d1117?style=for-the-badge&logo=google-calendar&logoColor=4285F4" alt="Book a call" /></a>
 </p>
 
 ---
@@ -335,6 +336,12 @@ I'm available for:
 - 🔬 **Research Collaboration** — ML, AI safety, applied NLP
 
 📬 **Reach out:** [Michaelle.lubich@gmail.com](mailto:Michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
+
+<p align="center">
+  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA">
+    <img src="https://img.shields.io/badge/📅%20Book%20a%20Call%20with%20Misha-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a call with Misha Lubich" />
+  </a>
+</p>
 
 ---
 
