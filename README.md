@@ -58,7 +58,6 @@
 - [Contribution Graph](#-contribution-graph)
 - [3D Contribution Calendar](#-3d-contribution-calendar)
 - [Contribution Snake](#-contribution-snake)
-- [Pinned Projects](#-pinned-projects)
 - [Open to Collaboration](#-open-to-collaboration)
 
 ---
@@ -297,27 +296,6 @@ flowchart LR
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Random developer quote" />
-</p>
-
----
-
-### 📦 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/ml-lubich/ai-video-generator">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=ai-video-generator&theme=gotham" alt="ai-video-generator" />
-  </a>
-  <a href="https://github.com/ml-lubich/music-sentimental-analysis">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=music-sentimental-analysis&theme=gotham" alt="music-sentimental-analysis" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ml-lubich/website-scraper">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=website-scraper&theme=gotham" alt="website-scraper" />
-  </a>
-  <a href="https://github.com/ml-lubich/lupfr">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=lupfr&theme=gotham" alt="lupfr" />
-  </a>
 </p>
 
 ---
