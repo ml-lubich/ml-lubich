@@ -14,8 +14,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=4F8CFF&style=flat" alt="Profile views" />
-  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=flat&color=4F8CFF" alt="GitHub followers" /></a>
-  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?label=Stars&style=flat&color=4F8CFF&affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars" /></a>
+  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=flat&color=4F8CFF&cacheSeconds=3600" alt="GitHub followers" /></a>
+  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?label=Stars&style=flat&color=4F8CFF&affiliations=OWNER%2CCOLLABORATOR&cacheSeconds=3600" alt="GitHub stars" /></a>
   <img src="https://img.shields.io/badge/Experience-5%2B%20years-brightgreen?style=flat&color=3fb950" alt="5+ years experience" />
   <img src="https://img.shields.io/badge/Research%20Papers-6%20published-blue?style=flat&color=a371f7" alt="6 published research papers" />
   <img src="https://img.shields.io/badge/Users%20Impacted-100M%2B-orange?style=flat&color=f78166" alt="100M+ users impacted" />
