@@ -1,7 +1,7 @@
 <!-- SEO: Misha Lubich | Forward-Deployed AI Engineer | Claude API | MCP servers | multi-agent orchestration | RAG pipelines | LLM production | UC Berkeley | ex-Apple | Python TypeScript Go | Anthropic | OpenAI | Gemini | LangChain | LangGraph | CrewAI | evals guardrails observability | FastAPI Next.js | AWS GCP Azure | 100M users | production machine learning | agent skills | sub-agents | context engineering | prompt engineering | RAGAS DeepEval LangSmith | pgvector FAISS Pinecone | LoRA QLoRA fine-tuning | forward deployed engineer | enterprise AI rollout | mishalubich.com -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=58&descSize=18&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CFF&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=58&descSize=18&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
 </p>
 
 <h1 align="center">Hi, I'm Misha Lubich 👋</h1>
@@ -350,5 +350,5 @@ Misha Lubich · ml-lubich · Forward-Deployed AI Engineer · Claude API · Anthr
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CFF&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
 </p>
