@@ -58,7 +58,7 @@
 - [Contribution Graph](#-contribution-graph)
 - [3D Contribution Calendar](#-3d-contribution-calendar)
 - [Contribution Snake](#-contribution-snake)
-- [Open to Collaboration](#-open-to-collaboration)
+- [Let's Collaborate](#-lets-collaborate)
 
 ---
 
@@ -300,13 +300,9 @@ flowchart LR
 
 ---
 
-### 🤝 Open to Collaboration
+### 🤝 Let's Collaborate
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-Production%20AI%20%7C%20Forward--Deployed%20Roles-2f81f7?style=for-the-badge" alt="Open to work" />
-</p>
-
-I'm available for:
+Always interested in working with sharp people on hard problems. If any of these resonate, let's talk:
 
 - 🤖 **Production LLM / Agentic AI** — MCP servers, multi-agent systems, RAG, evals, guardrails
 - 🏢 **Forward-Deployed AI Engineering** — embedded enterprise AI delivery, workflow scoping → rollout
