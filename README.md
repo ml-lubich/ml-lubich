@@ -33,7 +33,6 @@
 - [Featured Projects](#-featured-projects)
 - [GitHub Stats](#-github-stats)
 - [Profile Summary](#-profile-summary)
-- [Trophies](#-trophies)
 - [Contribution Graph](#-contribution-graph)
 - [3D Contribution Calendar](#-3d-contribution-calendar)
 - [Contribution Snake](#-contribution-snake)
