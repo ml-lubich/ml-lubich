@@ -86,14 +86,14 @@
 
 ### 👨‍💻 About Me
 
-Forward-deployed AI engineer specializing in **customer-embedded production LLM delivery**. I sit with enterprise teams, scope real workflows, and ship Claude- and multi-model-powered applications hardened with evals, guardrails, and observability. Designed and deployed a production AI platform with multi-agent orchestration, MCP tool servers, sub-agents, and RAG pipelines serving **100M+ users at sub-second P95**. UC Berkeley CS grad with **6 published research papers**.
+I'm **Misha Lubich**, a **Forward-Deployed AI Engineer** specializing in **customer-embedded, production-grade LLM (large language model) delivery**. I embed with enterprise engineering teams, scope real-world workflows, and ship **Anthropic Claude** and multi-model AI applications hardened with **evals, guardrails, and observability**. I designed and deployed a production AI platform with **multi-agent orchestration**, **Model Context Protocol (MCP) tool servers**, **sub-agents**, and **retrieval-augmented generation (RAG) pipelines** serving **100M+ users at sub-second P95 latency**. **UC Berkeley Computer Science** graduate, **ex-Apple (CoreOS / File Systems)**, with **6 published research papers**.
 
-- 🔭 **Currently:** Shipping production agentic systems — MCP servers, sub-agents, agent skills, eval harnesses
-- 🤝 **How I work:** Embedded with customer engineering and domain teams; high agency under ambiguity; codify reusable deployment patterns
-- 🧠 **Stack:** Claude (Sonnet · Opus · Haiku) · Anthropic API · OpenAI · Gemini · Python · TypeScript · FastAPI · Next.js · AWS / GCP / Azure
-- 💬 **Ask me about:** Production LLM apps, agent design, prompt + context engineering, eval-driven iteration, multi-agent orchestration, MCP
+- 🔭 **Currently:** Shipping production agentic AI systems — Model Context Protocol (MCP) servers, sub-agents, agent skills, and LLM eval harnesses
+- 🤝 **How I work:** Embedded with customer engineering and domain teams; high agency under ambiguity; codifying reusable enterprise AI deployment patterns
+- 🧠 **Stack:** Anthropic Claude (Sonnet · Opus · Haiku) · Claude API · OpenAI GPT · Google Gemini · Python · TypeScript · FastAPI · Next.js · AWS · GCP · Azure
+- 💬 **Ask me about:** Production LLM applications, AI agent design, prompt engineering + context engineering, eval-driven development, multi-agent orchestration, MCP integrations
 - 📫 **Reach me:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com)
-- 🔑 **Keywords:** `LLM engineer` · `Claude API` · `MCP servers` · `multi-agent` · `RAG` · `forward-deployed` · `AI production` · `evals` · `guardrails`
+- 🔑 **Keywords:** `AI engineer` · `LLM engineer` · `Claude API` · `Anthropic` · `MCP servers` · `multi-agent systems` · `RAG` · `forward-deployed engineer` · `production AI` · `LLM evals` · `AI guardrails`
 
 ---
 
