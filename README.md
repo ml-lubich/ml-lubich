@@ -25,7 +25,7 @@
   <a href="https://mishalubich.com"><img src="https://img.shields.io/badge/🌐%20mishalubich.com-0d1117?style=for-the-badge" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0d1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4" alt="Google Scholar" /></a>
-  <a href="mailto:Michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/📅%20Book%20a%20Call-0d1117?style=for-the-badge&logo=google-calendar&logoColor=4285F4" alt="Book a call" /></a>
 </p>
 
@@ -92,7 +92,7 @@ Forward-deployed AI engineer specializing in **customer-embedded production LLM 
 - 🤝 **How I work:** Embedded with customer engineering and domain teams; high agency under ambiguity; codify reusable deployment patterns
 - 🧠 **Stack:** Claude (Sonnet · Opus · Haiku) · Anthropic API · OpenAI · Gemini · Python · TypeScript · FastAPI · Next.js · AWS / GCP / Azure
 - 💬 **Ask me about:** Production LLM apps, agent design, prompt + context engineering, eval-driven iteration, multi-agent orchestration, MCP
-- 📫 **Reach me:** [Michaelle.lubich@gmail.com](mailto:Michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com)
+- 📫 **Reach me:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com)
 - 🔑 **Keywords:** `LLM engineer` · `Claude API` · `MCP servers` · `multi-agent` · `RAG` · `forward-deployed` · `AI production` · `evals` · `guardrails`
 
 ---
@@ -323,7 +323,7 @@ Always interested in working with sharp people on hard problems. If any of these
 - 🚀 **Technical Co-founding / Advising** — vertical SaaS, AI-native products
 - 🔬 **Research Collaboration** — ML, AI safety, applied NLP
 
-📬 **Reach out:** [Michaelle.lubich@gmail.com](mailto:Michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
+📬 **Reach out:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
 
 <p align="center">
   <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA">
