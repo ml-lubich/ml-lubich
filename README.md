@@ -44,9 +44,23 @@
 
 ---
 
+### 📊 AI Token Usage
+
+<p align="center">
+  <a href="https://tokscale.ai/u/ml-lubich"><img src="https://tokscale.ai/api/embed/ml-lubich/svg?sort=cost&compact=1" alt="Misha Lubich — AI token usage tracked by tokscale" /></a>
+</p>
+
+<p align="center">
+  <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/🏅%20Global%20Leaderboard-tokscale.ai-0d1117?style=for-the-badge&labelColor=0d1117&color=4F8CFF" alt="tokscale global leaderboard" /></a>
+  <a href="https://tokscale.ai/u/ml-lubich"><img src="https://img.shields.io/badge/📈%20Full%20Stats-%2Fu%2Fml--lubich-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950" alt="Full tokscale stats for ml-lubich" /></a>
+</p>
+
+---
+
 ### 📚 Table of Contents
 
 - [About Me](#-about-me)
+- [AI Token Usage](#-ai-token-usage)
 - [What I'm Building](#️-what-im-building)
 - [Career Timeline](#-career-timeline)
 - [Skill Graph](#-skill-graph)
