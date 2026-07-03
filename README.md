@@ -1,7 +1,7 @@
 <!-- SEO: Misha Lubich | Forward-Deployed AI Engineer | Claude API | MCP servers | multi-agent orchestration | RAG pipelines | LLM production | UC Berkeley | ex-Apple | Python TypeScript Go | Anthropic | OpenAI | Gemini | LangChain | LangGraph | CrewAI | evals guardrails observability | FastAPI Next.js | AWS GCP Azure | 100M users | production machine learning | agent skills | sub-agents | context engineering | prompt engineering | RAGAS DeepEval LangSmith | pgvector FAISS Pinecone | LoRA QLoRA fine-tuning | forward deployed engineer | enterprise AI rollout | mishalubich.com -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CFF&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=60&descSize=25&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=60&descSize=25&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
 </p>
 
 <h1 align="center">Hi, I'm Misha Lubich</h1>
@@ -12,25 +12,25 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=860&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Orchestration;Claude+%2B+sub-agents+%2B+agent+skills+%2B+RAG;Evals+%7C+Guardrails+%7C+Observability+at+Scale;Shipping+production+AI+at+100M%2B+user+scale;ex-Apple+%E2%80%A2+UC+Berkeley+CS+%E2%80%A2+6+Research+Papers" alt="Misha Lubich — AI Engineer typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=860&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Orchestration;Claude+%2B+sub-agents+%2B+agent+skills+%2B+RAG;Evals+%7C+Guardrails+%7C+Observability+at+Scale;Shipping+production+AI+at+100M%2B+user+scale;ex-Apple+%E2%80%A2+UC+Berkeley+CS+%E2%80%A2+6+Research+Papers" alt="Misha Lubich — AI Engineer typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=555&style=flat" alt="Profile views" />
-  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=flat&color=555&cacheSeconds=3600" alt="GitHub followers" /></a>
-  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?label=Stars&style=flat&color=555&affiliations=OWNER%2CCOLLABORATOR&cacheSeconds=3600" alt="GitHub stars" /></a>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20years-brightgreen?style=flat&color=555" alt="5+ years experience" />
-  <img src="https://img.shields.io/badge/Research%20Papers-6%20published-blue?style=flat&color=555" alt="6 published research papers" />
-  <img src="https://img.shields.io/badge/Users%20Impacted-100M%2B-orange?style=flat&color=555" alt="100M+ users impacted" />
+  <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=ffffff&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=flat-square&labelColor=000000&color=ffffff&cacheSeconds=3600" alt="GitHub followers" /></a>
+  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?label=Stars&style=flat-square&labelColor=000000&color=ffffff&affiliations=OWNER%2CCOLLABORATOR&cacheSeconds=3600" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20years-ffffff?style=flat-square&labelColor=000000" alt="5+ years experience" />
+  <img src="https://img.shields.io/badge/Research%20Papers-6%20published-ffffff?style=flat-square&labelColor=000000" alt="6 published research papers" />
+  <img src="https://img.shields.io/badge/Users%20Impacted-100M%2B-ffffff?style=flat-square&labelColor=000000" alt="100M+ users impacted" />
 </p>
 
 <p align="center">
-  <a href="https://mishalubich.com"><img src="https://img.shields.io/badge/mishalubich.com-0d1117?style=for-the-badge" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0d1117?style=for-the-badge&logo=google-scholar&logoColor=c9d1d9" alt="Google Scholar" /></a>
-  <a href="mailto:michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9" alt="Email" /></a>
-  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/Book%20a%20Call-0d1117?style=for-the-badge&logo=google-calendar&logoColor=c9d1d9" alt="Book a call" /></a>
+  <a href="https://mishalubich.com"><img src="https://img.shields.io/badge/mishalubich.com-000000?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=ffffff" alt="Google Scholar" /></a>
+  <a href="mailto:michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/Book%20a%20Call-000000?style=for-the-badge&logo=google-calendar&logoColor=ffffff" alt="Book a call" /></a>
 </p>
 
 ---
@@ -38,12 +38,12 @@
 ### Impact at a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/100M%2B%20Users%20Impacted-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="100M+ users" />
-  <img src="https://img.shields.io/badge/6%20Research%20Papers-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="6 papers" />
-  <img src="https://img.shields.io/badge/ex--Apple%20CoreOS-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="ex-Apple" />
-  <img src="https://img.shields.io/badge/UC%20Berkeley%20CS-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="UC Berkeley" />
-  <img src="https://img.shields.io/badge/Claude%20%2B%20MCP%20%2B%20Agents-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="Claude MCP Agents" />
-  <img src="https://img.shields.io/badge/AWS%20%7C%20GCP%20%7C%20Azure-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="Cloud" />
+  <img src="https://img.shields.io/badge/100M%2B%20Users%20Impacted-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="100M+ users" />
+  <img src="https://img.shields.io/badge/6%20Research%20Papers-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="6 papers" />
+  <img src="https://img.shields.io/badge/ex--Apple%20CoreOS-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="ex-Apple" />
+  <img src="https://img.shields.io/badge/UC%20Berkeley%20CS-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="UC Berkeley" />
+  <img src="https://img.shields.io/badge/Claude%20%2B%20MCP%20%2B%20Agents-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Claude MCP Agents" />
+  <img src="https://img.shields.io/badge/AWS%20%7C%20GCP%20%7C%20Azure-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Cloud" />
 </p>
 
 ---
@@ -55,8 +55,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/Global%20Leaderboard-tokscale.ai-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="tokscale global leaderboard" /></a>
-  <a href="https://tokscale.ai/u/ml-lubich"><img src="https://img.shields.io/badge/Full%20Stats-%2Fu%2Fml--lubich-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="Full tokscale stats for ml-lubich" /></a>
+  <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/Global%20Leaderboard-tokscale.ai-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="tokscale global leaderboard" /></a>
+  <a href="https://tokscale.ai/u/ml-lubich"><img src="https://img.shields.io/badge/Full%20Stats-%2Fu%2Fml--lubich-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Full tokscale stats for ml-lubich" /></a>
 </p>
 
 ---
@@ -128,10 +128,10 @@ flowchart LR
     SAAS --> USERS
     FDE --> USERS
 
-    classDef io fill:#0e1116,stroke:#2f81f7,stroke-width:1.5px,color:#e6edf3;
-    classDef brain fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#e6edf3;
-    classDef tool fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#e6edf3;
-    classDef out fill:#0e1116,stroke:#a371f7,stroke-width:1.5px,color:#e6edf3;
+    classDef io fill:#000000,stroke:#ffffff,stroke-width:1px,color:#ffffff;
+    classDef brain fill:#000000,stroke:#ffffff,stroke-width:2px,color:#ffffff;
+    classDef tool fill:#000000,stroke:#ffffff,stroke-width:1px,stroke-dasharray:4 3,color:#ffffff;
+    classDef out fill:#ffffff,stroke:#ffffff,stroke-width:1px,color:#000000;
     class ME io;
     class AI,FDE brain;
     class SAAS,WEB,PY,INFRA,EVAL tool;
@@ -233,7 +233,7 @@ flowchart LR
 
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-6%20Publications-30363d?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar — 6 Publications" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-6%20Publications-000000?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar — 6 Publications" />
   </a>
 </p>
 
@@ -261,16 +261,16 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/ml-lubich">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&theme=gotham&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&ring_color=ffffff&hide_border=true&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
   </a>
   <a href="https://github.com/ml-lubich">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&theme=gotham&cache_seconds=86400" alt="Misha Lubich Top Languages" />
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=86400" alt="Misha Lubich Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ml-lubich">
-    <img src="https://streak-stats.demolab.com?user=ml-lubich&theme=gotham&hide_border=false" alt="Misha Lubich GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ml-lubich&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Misha Lubich GitHub Streak" />
   </a>
 </p>
 
@@ -279,7 +279,7 @@ flowchart LR
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=0d1117&color=4f8cff&line=4f8cff&point=ffffff&area=true&hide_border=true" alt="Misha Lubich GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="Misha Lubich GitHub Activity Graph" />
 </p>
 
 ---
@@ -305,7 +305,7 @@ flowchart LR
 ### 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Misha Lubich 3D GitHub contribution calendar" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-3d-contrib/profile-night-view.svg" alt="Misha Lubich 3D GitHub contribution calendar" />
 </p>
 
 ---
@@ -313,7 +313,7 @@ flowchart LR
 ### Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" alt="Random developer quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
 </p>
 
 ---
@@ -331,7 +331,7 @@ Always interested in working with sharp people on hard problems. If any of these
 
 <p align="center">
   <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA">
-    <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Misha-30363d?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a call with Misha Lubich" />
+    <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Misha-000000?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a call with Misha Lubich" />
   </a>
 </p>
 
@@ -342,5 +342,5 @@ Misha Lubich · ml-lubich · Forward-Deployed AI Engineer · Claude API · Anthr
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CFF&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
 </p>
