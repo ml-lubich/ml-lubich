@@ -35,23 +35,6 @@
 
 ---
 
-### Neural Brain — Interactive 3D
-
-<p align="center">
-  <a href="https://neural-brain-ten.vercel.app" title="Launch the interactive 3D neural brain">
-    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/brain.gif" width="520" alt="Interactive 3D neural brain — real-time WebGL, click to rotate, zoom and explore" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://neural-brain-ten.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Launch%20Interactive%203D%20Brain-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Launch the interactive 3D neural brain" /></a>
-  <a href="https://github.com/ml-lubich/neural-brain"><img src="https://img.shields.io/badge/Source-neural--brain-000000?style=for-the-badge&labelColor=000000&color=ffffff&logo=github&logoColor=ffffff" alt="Neural brain source code" /></a>
-</p>
-
-<p align="center"><em>Real-time WebGL brain — ~9,000 neurons + firing synapses, rendered with Three.js.<br/><b>Click to rotate · scroll to zoom.</b> The preview above is a live capture of the deployed scene.</em></p>
-
----
-
 ### Impact at a Glance
 
 <p align="center">
@@ -81,7 +64,6 @@
 ### Table of Contents
 
 - [About Me](#about-me)
-- [Neural Brain — Interactive 3D](#neural-brain--interactive-3d)
 - [AI Token Usage](#ai-token-usage)
 - [What I'm Building](#what-im-building)
 - [Career Timeline](#career-timeline)
