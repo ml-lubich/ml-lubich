@@ -254,6 +254,7 @@ flowchart LR
 | **W3Sourcing** | Next.js · Tailwind | Premium recruitment platform — Tech, Legal & Finance | [w3sourcing.com](https://w3sourcing.com) |
 | **EnrichData** | AI · CRM · APIs | AI-driven CRM data enhancement platform | [enrichdata.net](https://enrichdata.net) |
 | **Portfolio** | Next.js · Framer Motion | Personal portfolio — 2026 animations & glassmorphism | [mishalubich.com](https://mishalubich.com) |
+| **bitbucket-cli (`bb`)** | Python · Typer · httpx | gh-style CLI for Bitbucket Cloud & Data Center | [github.com/ml-lubich/bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) |
 
 ---
 
