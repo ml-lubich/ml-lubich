@@ -247,6 +247,7 @@ flowchart LR
 
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
+| **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
 | **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
 | **Reviewly** | Claude API · Next.js · Supabase | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
 | **ScrapeChatAI** | Claude · Playwright · FastAPI | Chat-based web scraper with AI-generated browser scripts | [scrapechat.vercel.app](https://scrapechat.vercel.app) |
