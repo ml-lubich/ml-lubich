@@ -248,6 +248,7 @@ flowchart LR
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
 | **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
+| **twig** | Python · Rust · Typer | Git worktree CLI built for humans *and* agents — one-command create/jump/clean, JSON output on every command, real shell-hook `cd`, Rust hot path for agent swarms | [github.com/ml-lubich/twig](https://github.com/ml-lubich/twig) |
 | **whatsapp-mcp** | Go · Python · MCP · Typer | Fork featuring `wa` — a gradient-styled CLI that daemonizes the WhatsApp bridge + MCP server and adds messaging/contacts/chats/doctor commands (TDD, 133 tests, 98% coverage); also fixed the upstream 405 client-outdated connect failure ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
 | **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
 | **Reviewly** | Claude API · Next.js · Supabase | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
