@@ -1,7 +1,7 @@
 <!-- SEO: Misha Lubich | Forward-Deployed AI Engineer | Claude API | MCP servers | multi-agent orchestration | RAG pipelines | LLM production | UC Berkeley | ex-Apple | Python TypeScript Go | Anthropic | OpenAI | Gemini | LangChain | LangGraph | CrewAI | evals guardrails observability | FastAPI Next.js | AWS GCP Azure | 100M users | production machine learning | agent skills | sub-agents | context engineering | prompt engineering | RAGAS DeepEval LangSmith | pgvector FAISS Pinecone | LoRA QLoRA fine-tuning | forward deployed engineer | enterprise AI rollout | mishalubich.com -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=60&descSize=25&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E5FD9,100:39A7FF&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=60&descSize=25&animation=twinkling" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
 </p>
 
 <h1 align="center">Hi, I'm Misha Lubich</h1>
@@ -248,6 +248,7 @@ flowchart LR
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
 | **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
+| **whatsapp-mcp** (contributor) | Go · Python · MCP | Fixed the WhatsApp MCP bridge: whatsmeow upgrade + context-aware API migration resolving the 405 client-outdated connect failure ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
 | **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
 | **Reviewly** | Claude API · Next.js · Supabase | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
 | **ScrapeChatAI** | Claude · Playwright · FastAPI | Chat-based web scraper with AI-generated browser scripts | [scrapechat.vercel.app](https://scrapechat.vercel.app) |
@@ -344,5 +345,5 @@ Misha Lubich · ml-lubich · Forward-Deployed AI Engineer · Claude API · Anthr
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39A7FF,50:1E5FD9,100:0A1F44&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
 </p>
