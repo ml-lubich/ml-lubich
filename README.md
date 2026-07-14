@@ -248,7 +248,7 @@ flowchart LR
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
 | **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
-| **whatsapp-mcp** (contributor) | Go · Python · MCP | Fixed the WhatsApp MCP bridge: whatsmeow upgrade + context-aware API migration resolving the 405 client-outdated connect failure ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
+| **whatsapp-mcp** | Go · Python · MCP · Typer | Fork featuring `wa` — a gradient-styled CLI that daemonizes the WhatsApp bridge + MCP server and adds messaging/contacts/chats/doctor commands (TDD, 133 tests, 98% coverage); also fixed the upstream 405 client-outdated connect failure ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
 | **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
 | **Reviewly** | Claude API · Next.js · Supabase | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
 | **ScrapeChatAI** | Claude · Playwright · FastAPI | Chat-based web scraper with AI-generated browser scripts | [scrapechat.vercel.app](https://scrapechat.vercel.app) |
