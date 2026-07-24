@@ -265,6 +265,18 @@ flowchart LR
 | **confluence-cli** | Node.js · Commander · Atlassian API | Confluence CLI with first-class bulk move/delete + idempotent mirror/migration — built to be safely driven by AI agents | [github.com/ml-lubich/confluence-cli](https://github.com/ml-lubich/confluence-cli) |
 | **bitbucket-cli (`bb`)** | Python · Typer · httpx | gh-style CLI for Bitbucket Cloud & Data Center | [github.com/ml-lubich/bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) |
 
+### Agent CLI family (Typer · `-h` · `agent schema` · PyPI · Brew)
+
+| CLI | PyPI | Install |
+|-----|------|---------|
+| `imsg` | [mac-imsg](https://pypi.org/project/mac-imsg/) | `pip install mac-imsg` · `brew install ml-lubich/tap/imsg` |
+| `imail` | [mac-imail](https://pypi.org/project/mac-imail/) | `pip install mac-imail` · `brew install --HEAD ml-lubich/tap/imail` |
+| `inotes` | [mac-inotes](https://pypi.org/project/mac-inotes/) | `pip install mac-inotes` · `brew install ml-lubich/tap/inotes` |
+| `wa` | [mac-wa](https://pypi.org/project/mac-wa/) | `pip install mac-wa` · `brew install ml-lubich/tap/wa` |
+
+Every command: `<tool> -h` / `--help`. Agents: `<tool> agent schema`.
+
+
 ---
 
 ### GitHub Stats
