@@ -1,17 +1,13 @@
 name: GitHub-Profile-Summary-Cards
 
-# Generate static cards into profile-summary-card-output/ so the profile README
-# never depends on the public Vercel API (which rate-limits productive-time).
+# Refresh static Profile Summary SVGs. Uses the public card API when available,
+# with a local fallback for productive-time so the README never shows Vercel's
+# "Cards are temporarily rate limited" ERROR card.
 
 on:
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/profile-summary-cards.yml"
 
 permissions:
   contents: write
@@ -19,19 +15,25 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: generate-profile-summary-cards
+    name: bake-static-summary-cards
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Bake summary cards
         env:
-          # Prefer a PAT with `read:user` in SUMMARY_GITHUB_TOKEN when available;
-          # falls back to the default Actions token for public data.
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: main
-          UTC_OFFSET: -7
-          THEME: github_dark
-          AUTO_PUSH: true
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          chmod +x scripts/bake-summary-cards.sh
+          ./scripts/bake-summary-cards.sh
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile summary cards"
+            git push
+          else
+            echo "No card changes"
+          fi

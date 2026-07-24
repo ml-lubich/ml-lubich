@@ -12,7 +12,11 @@ from pathlib import Path
 
 def main() -> None:
     out = Path(sys.argv[1] if len(sys.argv) > 1 else "4-productive-time.svg")
-    token = subprocess.check_output(["gh", "auth", "token"], text=True).strip()
+    token = (
+        __import__("os").environ.get("GH_TOKEN")
+        or __import__("os").environ.get("GITHUB_TOKEN")
+        or subprocess.check_output(["gh", "auth", "token"], text=True).strip()
+    )
     req = urllib.request.Request(
         "https://api.github.com/users/ml-lubich/events?per_page=100",
         headers={
