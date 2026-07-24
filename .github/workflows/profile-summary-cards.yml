@@ -33,7 +33,8 @@ jobs:
           git add profile-summary-card-output
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh profile summary cards"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           else
             echo "No card changes"
           fi
