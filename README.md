@@ -274,5 +274,5 @@ flowchart LR
 | **inotes-mcp** | `inotes` | `apple-notes` | `pip install mac-inotes` |
 | **wa-mcp** | `wa` | `wa-mcp` | `pip install mac-wa mac-wa-mcp` |
 
-`*-mcp` brand ⇒ ships agent-friendly CLI (`-h`, `agent schema`); MCP where packaged. Brew: `ml-lubich/tap/{imsg,imail,inotes,wa}`.
+`*-mcp` brand ⇒ CLI + MCP for agents (`-h`, `agent schema`). **Exception:** `bitbucket-cli` stays `bitbucket-cli` (CLI-first, not *-mcp). Brew: `ml-lubich/tap/{imsg,imail,inotes,wa}`.
 
