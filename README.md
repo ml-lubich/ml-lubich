@@ -249,10 +249,10 @@ flowchart LR
 
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
-| **imsg** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `imsg-mcp`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
-| **imail** | Bash · AppleScript · MCP | Apple Mail CLI (+ MCP) in the same family as `imsg` — `imail` CLI-first, Mail.app only | [github.com/ml-lubich/imail](https://github.com/ml-lubich/imail) |
-| **inotes** | Bash · AppleScript · MCP | Apple Notes CLI (+ MCP) — `inotes` CLI-first, pairs with `apple-notes-mcp` | [github.com/ml-lubich/inotes](https://github.com/ml-lubich/inotes) |
-| **whatsapp-mcp (`wa`)** | Go · Python · MCP · Typer | `wa` / `wa-mcp` — WhatsApp CLI + MCP (imsg pattern); daemonize bridge, send/contacts/chats/doctor ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
+| **imsg-mcp** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `imsg-mcp`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
+| **imail-mcp** | Python · Typer · MCP | Apple Mail CLI (`imail`) + agent schema; MCP via apple-mail — CLI-first, Mail.app only | [github.com/ml-lubich/imail](https://github.com/ml-lubich/imail) |
+| **inotes-mcp** | Python · Typer · MCP | Apple Notes CLI (`inotes`) + agent schema; pairs with `apple-notes-mcp` | [github.com/ml-lubich/inotes](https://github.com/ml-lubich/inotes) |
+| **wa-mcp** (`wa`) | Go · Python · MCP · Typer | `wa` / `wa-mcp` — WhatsApp CLI + MCP (imsg pattern); daemonize bridge, send/contacts/chats/doctor ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
 | **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
 | **twig** | Python · Rust · Typer | Git worktree CLI built for humans *and* agents — one-command create/jump/clean, JSON output on every command, real shell-hook `cd`, Rust hot path for agent swarms | [github.com/ml-lubich/twig](https://github.com/ml-lubich/twig) |
 | **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
@@ -265,83 +265,14 @@ flowchart LR
 | **confluence-cli** | Node.js · Commander · Atlassian API | Confluence CLI with first-class bulk move/delete + idempotent mirror/migration — built to be safely driven by AI agents | [github.com/ml-lubich/confluence-cli](https://github.com/ml-lubich/confluence-cli) |
 | **bitbucket-cli (`bb`)** | Python · Typer · httpx | gh-style CLI for Bitbucket Cloud & Data Center | [github.com/ml-lubich/bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) |
 
-### Agent CLI family (`*-client` · Typer · MCP · Brew)
+### Agent family (`*-mcp` = CLI + MCP)
 
-| Brand / CLI | PyPI (target) | Install today |
-|-------------|---------------|---------------|
-| **imsg-client** (`imsg` / `imsg-mcp`) | `imsg-client` | `pip install mac-imsg` until client name clears PyPI rate-limit |
-| **imail-client** (`imail`) | `imail-client` | `pip install mac-imail` |
-| **inotes-client** (`inotes`) | `inotes-client` | `pip install mac-inotes` |
-| **wa-client** (`wa`) + **wa-mcp** | `wa-client` / `wa-mcp` | `pip install mac-wa` · `mac-wa-mcp` |
+| Product | CLI | MCP | Install today |
+|---------|-----|-----|---------------|
+| **imsg-mcp** | `imsg` | `imsg-mcp` | `pip install mac-imsg` |
+| **imail-mcp** | `imail` | `apple-mail` / MCP | `pip install mac-imail` |
+| **inotes-mcp** | `inotes` | `apple-notes` | `pip install mac-inotes` |
+| **wa-mcp** | `wa` | `wa-mcp` | `pip install mac-wa mac-wa-mcp` |
 
-Every tool: `<cli> -h` · `<cli> agent schema`. Brew: `ml-lubich/tap/{imsg,imail,inotes,wa}`.
+`*-mcp` brand ⇒ ships agent-friendly CLI (`-h`, `agent schema`); MCP where packaged. Brew: `ml-lubich/tap/{imsg,imail,inotes,wa}`.
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ml-lubich">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=0A1F44&title_color=39A7FF&icon_color=39A7FF&text_color=E6EDF3&ring_color=1E5FD9&hide_border=true&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
-  </a>
-  <a href="https://github.com/ml-lubich">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&langs_count=8&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&hide_border=true&cache_seconds=86400" alt="Misha Lubich Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ml-lubich">
-    <img height="180" src="https://streak-stats.demolab.com?user=ml-lubich&theme=transparent&background=0A1F44&border=0A1F44&stroke=1E5FD9&ring=39A7FF&fire=39A7FF&currStreakNum=E6EDF3&currStreakLabel=39A7FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="Misha Lubich GitHub Streak" />
-  </a>
-</p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=0A1F44&color=39A7FF&line=1E5FD9&point=39A7FF&area=true&area_color=1E5FD9&hide_border=true&custom_title=Contribution%20Activity" alt="Misha Lubich GitHub Activity Graph" />
-</p>
-
----
-
-### 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-3d-contrib/profile-night-view.svg" alt="Misha Lubich 3D GitHub contribution calendar" />
-</p>
-
----
-
-### Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
-</p>
-
----
-
-### Let's Collaborate
-
-Always interested in working with sharp people on hard problems. If any of these resonate, let's talk:
-
-- **Production LLM / Agentic AI** — MCP servers, multi-agent systems, RAG, evals, guardrails
-- **Forward-Deployed AI Engineering** — embedded enterprise AI delivery, workflow scoping → rollout
-- **Technical Co-founding / Advising** — vertical SaaS, AI-native products
-- **Research Collaboration** — ML, AI safety, applied NLP
-
-**Reach out:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
-
-<p align="center">
-  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA">
-    <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Misha-000000?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a call with Misha Lubich" />
-  </a>
-</p>
-
----
-
-<!-- KEYWORDS (GitHub search indexing):
-Misha Lubich · ml-lubich · Forward-Deployed AI Engineer · Claude API · Anthropic · MCP servers · model context protocol · multi-agent orchestration · sub-agents · agent skills · RAG pipelines · retrieval augmented generation · LLM production · large language models · prompt engineering · context engineering · evals · guardrails · LangChain · LangGraph · CrewAI · LlamaIndex · RAGAS · DeepEval · LangSmith · pgvector · FAISS · Pinecone · ChromaDB · LoRA · QLoRA · vLLM · fine-tuning · PyTorch · TensorFlow · Python · TypeScript · Go · FastAPI · Next.js · React · Tailwind · Supabase · PostgreSQL · Redis · Kafka · AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · UC Berkeley · ex-Apple · CoreOS · APFS · 100M users · production machine learning · enterprise AI · forward deployed engineer · AI platform · agentic systems · mishalubich.com
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39A7FF,50:1E5FD9,100:0A1F44&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
-</p>
