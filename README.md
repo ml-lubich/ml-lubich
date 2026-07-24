@@ -265,19 +265,16 @@ flowchart LR
 | **confluence-cli** | Node.js · Commander · Atlassian API | Confluence CLI with first-class bulk move/delete + idempotent mirror/migration — built to be safely driven by AI agents | [github.com/ml-lubich/confluence-cli](https://github.com/ml-lubich/confluence-cli) |
 | **bitbucket-cli (`bb`)** | Python · Typer · httpx | gh-style CLI for Bitbucket Cloud & Data Center | [github.com/ml-lubich/bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) |
 
-### Agent CLI family (Typer · `-h` · `agent schema` · PyPI · Brew)
+### Agent CLI family (`*-client` · Typer · MCP · Brew)
 
-| CLI | PyPI | Install |
-|-----|------|---------|
-| `imsg` | [mac-imsg](https://pypi.org/project/mac-imsg/) | `pip install mac-imsg` · `brew install ml-lubich/tap/imsg` |
-| `imail` | [mac-imail](https://pypi.org/project/mac-imail/) | `pip install mac-imail` · `brew install --HEAD ml-lubich/tap/imail` |
-| `inotes` | [mac-inotes](https://pypi.org/project/mac-inotes/) | `pip install mac-inotes` · `brew install ml-lubich/tap/inotes` |
-| `wa` | [mac-wa](https://pypi.org/project/mac-wa/) | `pip install mac-wa` · `brew install ml-lubich/tap/wa` |
+| Brand / CLI | PyPI (target) | Install today |
+|-------------|---------------|---------------|
+| **imsg-client** (`imsg` / `imsg-mcp`) | `imsg-client` | `pip install mac-imsg` until client name clears PyPI rate-limit |
+| **imail-client** (`imail`) | `imail-client` | `pip install mac-imail` |
+| **inotes-client** (`inotes`) | `inotes-client` | `pip install mac-inotes` |
+| **wa-client** (`wa`) + **wa-mcp** | `wa-client` / `wa-mcp` | `pip install mac-wa` · `mac-wa-mcp` |
 
-Every command: `<tool> -h` / `--help`. Agents: `<tool> agent schema`.
-
-
----
+Every tool: `<cli> -h` · `<cli> agent schema`. Brew: `ml-lubich/tap/{imsg,imail,inotes,wa}`.
 
 ### GitHub Stats
 
