@@ -291,18 +291,21 @@ flowchart LR
 
 ### Profile Summary
 
+<!-- Static SVGs (refreshed by .github/workflows/profile-summary-cards.yml).
+     Avoids the public Vercel API, which rate-limits productive-time cards. -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ml-lubich&theme=github_dark" alt="Misha Lubich Profile Details" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Misha Lubich Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ml-lubich&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ml-lubich&theme=github_dark" alt="Most commit language" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ml-lubich&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ml-lubich&theme=github_dark&utcOffset=-7" alt="Productive time (PT)" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time (PT)" />
 </p>
 
 ---

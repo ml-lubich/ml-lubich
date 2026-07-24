@@ -1,0 +1,37 @@
+name: GitHub-Profile-Summary-Cards
+
+# Generate static cards into profile-summary-card-output/ so the profile README
+# never depends on the public Vercel API (which rate-limits productive-time).
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Prefer a PAT with `read:user` in SUMMARY_GITHUB_TOKEN when available;
+          # falls back to the default Actions token for public data.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -7
+          THEME: github_dark
+          AUTO_PUSH: true
