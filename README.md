@@ -278,12 +278,6 @@ flowchart LR
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ml-lubich">
-    <img src="https://github-profile-trophy.vercel.app/?username=ml-lubich&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Experience" alt="Misha Lubich GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### Contribution Graph
