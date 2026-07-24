@@ -1,36 +1,36 @@
 <!-- SEO: Misha Lubich | Forward-Deployed AI Engineer | Claude API | MCP servers | multi-agent orchestration | RAG pipelines | LLM production | UC Berkeley | ex-Apple | Python TypeScript Go | Anthropic | OpenAI | Gemini | LangChain | LangGraph | CrewAI | evals guardrails observability | FastAPI Next.js | AWS GCP Azure | 100M users | production machine learning | agent skills | sub-agents | context engineering | prompt engineering | RAGAS DeepEval LangSmith | pgvector FAISS Pinecone | LoRA QLoRA fine-tuning | forward deployed engineer | enterprise AI rollout | mishalubich.com -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:1E5FD9,100:39A7FF&height=220&section=header&text=Misha%20Lubich&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Forward-Deployed%20AI%20Engineer%20%E2%80%A2%20ex-Apple%20%E2%80%A2%20UC%20Berkeley&descAlignY=60&descSize=25&animation=twinkling" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Forward-Deployed%20AI%20Engineer%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
 </p>
 
-<h1 align="center">Hi, I'm Misha Lubich</h1>
+<h2 align="center">Shipping production Claude, MCP &amp; multi-agent systems to <strong>100M+</strong> users</h2>
 
-<h3 align="center">Forward-Deployed AI Engineer &nbsp;·&nbsp; ex-Apple CoreOS &nbsp;·&nbsp; UC Berkeley CS</h3>
-
-<p align="center"><em>Shipping production Claude, MCP & multi-agent systems to 100M+ users</em></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/hero-divider.svg" alt="" width="420" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=860&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Orchestration;Claude+%2B+sub-agents+%2B+agent+skills+%2B+RAG;Evals+%7C+Guardrails+%7C+Observability+at+Scale;Shipping+production+AI+at+100M%2B+user+scale;ex-Apple+%E2%80%A2+UC+Berkeley+CS+%E2%80%A2+6+Research+Papers" alt="Misha Lubich — AI Engineer typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — AI Engineer typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=ffffff&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=flat-square&labelColor=000000&color=ffffff&cacheSeconds=3600" alt="GitHub followers" /></a>
-  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?label=Stars&style=flat-square&labelColor=000000&color=ffffff&affiliations=OWNER%2CCOLLABORATOR&cacheSeconds=3600" alt="GitHub stars" /></a>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20years-ffffff?style=flat-square&labelColor=000000" alt="5+ years experience" />
-  <img src="https://img.shields.io/badge/Research%20Papers-6%20published-ffffff?style=flat-square&labelColor=000000" alt="6 published research papers" />
-  <img src="https://img.shields.io/badge/Users%20Impacted-100M%2B-ffffff?style=flat-square&labelColor=000000" alt="100M+ users impacted" />
+  <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=39A7FF&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=for-the-badge&labelColor=0A1F44&color=1E5FD9&logo=github&logoColor=white&cacheSeconds=3600" alt="GitHub followers" /></a>
+  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&labelColor=0A1F44&color=39A7FF&logo=github&logoColor=white&cacheSeconds=3600" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/badge/Experience-5%2B_years-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="5+ years experience" />
+  <img src="https://img.shields.io/badge/Research-6_papers-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6 published research papers" />
+  <img src="https://img.shields.io/badge/Impact-100M%2B_users-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="100M+ users impacted" />
 </p>
 
 <p align="center">
-  <a href="https://mishalubich.com"><img src="https://img.shields.io/badge/mishalubich.com-000000?style=for-the-badge" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=ffffff" alt="Google Scholar" /></a>
-  <a href="mailto:michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
-  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/Book%20a%20Call-000000?style=for-the-badge&logo=google-calendar&logoColor=ffffff" alt="Book a call" /></a>
+  <a href="https://mishalubich.com"><img src="https://img.shields.io/badge/Website-mishalubich.com-0A1F44?style=for-the-badge&logo=vercel&logoColor=39A7FF&labelColor=071428" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-Misha_Lubich-0A1F44?style=for-the-badge&logo=linkedin&logoColor=39A7FF&labelColor=071428" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Citations-0A1F44?style=for-the-badge&logo=googlescholar&logoColor=39A7FF&labelColor=071428" alt="Google Scholar" /></a>
+  <a href="mailto:michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-michaelle.lubich%40gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=39A7FF&labelColor=071428" alt="Email" /></a>
+  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/Book_a_Call-Open_Calendar-1E5FD9?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=071428" alt="Book a call" /></a>
 </p>
 
 ---
@@ -38,12 +38,15 @@
 ### Impact at a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/100M%2B%20Users%20Impacted-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="100M+ users" />
-  <img src="https://img.shields.io/badge/6%20Research%20Papers-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="6 papers" />
-  <img src="https://img.shields.io/badge/ex--Apple%20CoreOS-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="ex-Apple" />
-  <img src="https://img.shields.io/badge/UC%20Berkeley%20CS-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="UC Berkeley" />
-  <img src="https://img.shields.io/badge/Claude%20%2B%20MCP%20%2B%20Agents-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Claude MCP Agents" />
-  <img src="https://img.shields.io/badge/AWS%20%7C%20GCP%20%7C%20Azure-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Cloud" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg" alt="Impact at a Glance — 100M+ users, 6 papers, ex-Apple CoreOS, UC Berkeley CS, Claude + MCP + Agents" width="980" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-Sonnet%20%C2%B7%20Opus%20%C2%B7%20Haiku-0A1F44?style=flat-square&logo=anthropic&logoColor=39A7FF&labelColor=071428" alt="Claude" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Servers-0A1F44?style=flat-square&labelColor=071428&color=1E5FD9" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agents-Multi--agent%20orchestration-0A1F44?style=flat-square&labelColor=071428&color=39A7FF" alt="Agents" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-0A1F44?style=flat-square&logo=amazonwebservices&logoColor=39A7FF&labelColor=071428" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Evals-RAGAS%20%C2%B7%20DeepEval%20%C2%B7%20LangSmith-0A1F44?style=flat-square&labelColor=071428&color=1E5FD9" alt="Evals" />
 </p>
 
 ---
@@ -55,8 +58,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/Global%20Leaderboard-tokscale.ai-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="tokscale global leaderboard" /></a>
-  <a href="https://tokscale.ai/u/ml-lubich"><img src="https://img.shields.io/badge/Full%20Stats-%2Fu%2Fml--lubich-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="Full tokscale stats for ml-lubich" /></a>
+  <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/Global_Leaderboard-tokscale.ai-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="tokscale global leaderboard" /></a>
+  <a href="https://tokscale.ai/u/ml-lubich"><img src="https://img.shields.io/badge/Full_Stats-/u/ml--lubich-0A1F44?style=for-the-badge&labelColor=071428&color=39A7FF" alt="Full tokscale stats for ml-lubich" /></a>
 </p>
 
 ---
