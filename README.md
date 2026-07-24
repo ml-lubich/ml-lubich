@@ -72,7 +72,6 @@
 - [Research & Publications](#research--publications)
 - [Featured Projects](#featured-projects)
 - [GitHub Stats](#github-stats)
-- [Profile Summary](#profile-summary)
 - [Contribution Graph](#contribution-graph)
 - [3D Contribution Calendar](#3d-contribution-calendar)
 - [Contribution Snake](#contribution-snake)
@@ -266,16 +265,22 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/ml-lubich">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&hide=issues&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&ring_color=ffffff&hide_border=true&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=0A1F44&title_color=39A7FF&icon_color=39A7FF&text_color=E6EDF3&ring_color=1E5FD9&hide_border=true&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
   </a>
   <a href="https://github.com/ml-lubich">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=86400" alt="Misha Lubich Top Languages" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&langs_count=8&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&hide_border=true&cache_seconds=86400" alt="Misha Lubich Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ml-lubich">
-    <img src="https://streak-stats.demolab.com?user=ml-lubich&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Misha Lubich GitHub Streak" />
+    <img height="180" src="https://streak-stats.demolab.com?user=ml-lubich&theme=transparent&background=0A1F44&border=0A1F44&stroke=1E5FD9&ring=39A7FF&fire=39A7FF&currStreakNum=E6EDF3&currStreakLabel=39A7FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="Misha Lubich GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ml-lubich">
+    <img src="https://github-profile-trophy.vercel.app/?username=ml-lubich&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Experience" alt="Misha Lubich GitHub Trophies" />
   </a>
 </p>
 
@@ -284,28 +289,7 @@ flowchart LR
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="Misha Lubich GitHub Activity Graph" />
-</p>
-
----
-
-### Profile Summary
-
-<!-- Static SVGs (refreshed by .github/workflows/profile-summary-cards.yml).
-     Avoids the public Vercel API, which rate-limits productive-time cards. -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Misha Lubich Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time (PT)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=0A1F44&color=39A7FF&line=1E5FD9&point=39A7FF&area=true&area_color=1E5FD9&hide_border=true&custom_title=Contribution%20Activity" alt="Misha Lubich GitHub Activity Graph" />
 </p>
 
 ---
