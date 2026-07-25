@@ -273,25 +273,28 @@ Every tool in the family ships a human-friendly CLI **and** an agent surface (MC
   <a href="https://github.com/ml-lubich/inotes"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=inotes&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="inotes — Apple Notes CLI for agents" /></a>
 </p>
 
-| Project | CLI | MCP / agent surface | Install |
-|---------|-----|---------------------|---------|
-| **imsg-mcp** | `imsg` | `imsg-mcp` server | `pip install mac-imsg` |
-| **imail-mcp** | `imail` | `agent schema` · pairs with `apple-mail` MCP | `pip install mac-imail` |
-| **inotes-mcp** | `inotes` | `agent schema` · pairs with `apple-notes` MCP | `pip install mac-inotes` |
-| **wa-mcp** | `wa` | `wa-mcp` server | `pip install mac-wa mac-wa-mcp` |
-| **bitbucket-cli** | `bb` | `agent schema` | `pip install bitbucket-client` |
-| **confluence-cli** | `confluence-cli` | agent-safe bulk ops | `brew install ml-lubich/tap/confluence-cli` |
+| Project | What it is | Install |
+|---------|------------|---------|
+| **[bitbucket-client](https://github.com/ml-lubich/bitbucket-cli)** (`bb`) | gh-style CLI for Bitbucket Cloud & Data Center, with a read-only MCP server | `brew install ml-lubich/tap/bitbucket-client` · `pip install bitbucket-client` |
+| **[confluence-cli](https://github.com/ml-lubich/confluence-cli)** | Confluence CLI with bulk ops, built for AI agents | `brew install ml-lubich/tap/confluence-cli` · `npm i -g @ml-lubich/confluence-cli` |
+| **[imsg](https://github.com/ml-lubich/imsg)** | Local iMessage CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imsg` · `pip install imsg-mcp` |
+| **[imail](https://github.com/ml-lubich/imail)** | Apple Mail CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imail` · `pip install imail-mcp` |
+| **[inotes](https://github.com/ml-lubich/inotes)** | Apple Notes CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/inotes` · `pip install inotes-mcp` |
+| **[pdfify-md](https://github.com/ml-lubich/pdfify-md)** | Markdown/Mermaid to clean PDF, cross-platform | `brew install ml-lubich/tap/pdfify-md` · `npm i -g pdfify-md` |
+| **[jenkins-mcp](https://github.com/ml-lubich/jenkins-mcp)** | Jenkins CLI / MCP server | `pip install jenkins-mcp-cli` |
+| **[wa-mcp](https://github.com/ml-lubich/whatsapp-mcp)** (`wa`) | WhatsApp CLI + MCP, imsg pattern | `pip install mac-wa mac-wa-mcp` |
 
 #### ⚡ The whole toolbox, one line
 
 ```bash
-brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli}
+brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli,pdfify-md}
+pip install jenkins-mcp-cli
 ```
 
 <p align="center">
   <a href="https://github.com/ml-lubich/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-ml--lubich%2Ftap-1E5FD9?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=071428" alt="Homebrew tap ml-lubich/tap" /></a>
-  <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-mac--*%20family-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI mac-* family" /></a>
-  <img src="https://img.shields.io/badge/6_tools-CLI_%2B_agent--ready-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="6 tools, CLI + agent-ready" />
+  <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-ml--lubich-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI ml-lubich packages" /></a>
+  <img src="https://img.shields.io/badge/8_tools-CLI_%2B_agent--ready-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="8 tools, CLI + agent-ready" />
 </p>
 
 ---
