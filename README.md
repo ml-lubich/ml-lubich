@@ -243,7 +243,7 @@ flowchart LR
 
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
-| **imsg-mcp** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `imsg-mcp`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
+| **mac-imsg** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `mac-imsg`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
 | **imail-mcp** | Python · Typer · MCP | Apple Mail CLI (`imail`) + agent schema; MCP via apple-mail — CLI-first, Mail.app only | [github.com/ml-lubich/imail](https://github.com/ml-lubich/imail) |
 | **inotes-mcp** | Python · Typer · MCP | Apple Notes CLI (`inotes`) + agent schema; pairs with `apple-notes-mcp` | [github.com/ml-lubich/inotes](https://github.com/ml-lubich/inotes) |
 | **wa-mcp** (`wa`) | Go · Python · MCP · Typer | `wa` / `wa-mcp` — WhatsApp CLI + MCP (imsg pattern); daemonize bridge, send/contacts/chats/doctor ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
@@ -277,7 +277,7 @@ Every tool in the family ships a human-friendly CLI **and** an agent surface (MC
 |---------|------------|---------|
 | **[bitbucket-client](https://github.com/ml-lubich/bitbucket-cli)** (`bb`) | gh-style CLI for Bitbucket Cloud & Data Center, with a read-only MCP server | `brew install ml-lubich/tap/bitbucket-client` · `pip install bitbucket-client` |
 | **[confluence-cli](https://github.com/ml-lubich/confluence-cli)** | Confluence CLI with bulk ops, built for AI agents | `brew install ml-lubich/tap/confluence-cli` · `npm i -g @ml-lubich/confluence-cli` |
-| **[imsg](https://github.com/ml-lubich/imsg)** | Local iMessage CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imsg` · `pip install imsg-mcp` |
+| **[imsg](https://github.com/ml-lubich/imsg)** | Local iMessage CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imsg` · `pip install mac-imsg` |
 | **[imail](https://github.com/ml-lubich/imail)** | Apple Mail CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imail` · `pip install imail-mcp` |
 | **[inotes](https://github.com/ml-lubich/inotes)** | Apple Notes CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/inotes` · `pip install inotes-mcp` |
 | **[pdfify-md](https://github.com/ml-lubich/pdfify-md)** | Markdown/Mermaid to clean PDF, cross-platform | `brew install ml-lubich/tap/pdfify-md` · `npm i -g pdfify-md` |
