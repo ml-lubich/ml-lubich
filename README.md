@@ -268,7 +268,17 @@ Every tool in the family ships a human-friendly CLI **and** an agent surface (MC
 | **bitbucket-cli** | `bb` | `agent schema` | `pip install bitbucket-client` |
 | **confluence-cli** | `confluence-cli` | agent-safe bulk ops | `brew install ml-lubich/tap/confluence-cli` |
 
-All also on Homebrew: `brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli}`.
+#### ⚡ The whole toolbox, one line
+
+```bash
+brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli}
+```
+
+<p align="center">
+  <a href="https://github.com/ml-lubich/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-ml--lubich%2Ftap-1E5FD9?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=071428" alt="Homebrew tap ml-lubich/tap" /></a>
+  <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-mac--*%20family-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI mac-* family" /></a>
+  <img src="https://img.shields.io/badge/6_tools-CLI_%2B_agent--ready-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="6 tools, CLI + agent-ready" />
+</p>
 
 ---
 
