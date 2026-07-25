@@ -38,7 +38,7 @@
 ### Impact at a Glance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg" alt="Impact at a Glance — 100M+ users, 6 papers, ex-Apple CoreOS, UC Berkeley CS, Claude + MCP + Agents" width="980" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg?v=2" alt="Impact at a Glance — 100M+ users, 6 papers, ex-Apple CoreOS, UC Berkeley CS, Claude + MCP + Agents" width="980" />
 </p>
 
 <p align="center">
@@ -74,19 +74,12 @@
 - [Tech Stack](#tech-stack)
 - [Research & Publications](#research--publications)
 - [Featured Projects](#featured-projects)
+- [Open-Source Agent Tools](#open-source-agent-tools)
 - [GitHub Stats](#github-stats)
 - [Contribution Graph](#contribution-graph)
 - [3D Contribution Calendar](#3d-contribution-calendar)
 - [Contribution Snake](#contribution-snake)
 - [Let's Collaborate](#lets-collaborate)
-
----
-
-### Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
-</p>
 
 ---
 
@@ -110,7 +103,7 @@ flowchart LR
     ME(("👨‍💻<br/>Misha"))
     AI{{"🤖 Production AI<br/>Claude · MCP · sub-agents · agent skills"}}
     FDE["🤝 Forward-Deployed<br/>discovery · scoping · rollout"]
-    SAAS["🚀 Vertical SaaS<br/>Reviewly · LeadPipe · ScrapeChat"]
+    SAAS["🚀 Product · SaaS<br/>Lupfr · EnrichData · W3Sourcing"]
     WEB["🌐 Web · TypeScript<br/>Next.js · Tailwind · Bun"]
     PY["🐍 Python · ML<br/>PyTorch · LangChain · LangGraph · CrewAI"]
     EVAL["🧪 Evals · Guardrails<br/>RAGAS · DeepEval · LangSmith"]
@@ -153,7 +146,7 @@ timeline
     2022 : Walmart Global Tech — SWE intern (ad-targeting ML, Spring Boot)
     2023 : Apple — SDET, CoreOS / File Systems (APFS, LLM-assisted automation)
     2024 : Independent consulting — lupfr.com · w3sourcing.com
-    2025 : Indie SaaS — Reviewly · LeadPipe · ScrapeChat
+    2025 : Indie SaaS — vertical AI products · consulting
     2026 : Production AI — MCP servers · multi-agent · 100M+ users
 ```
 
@@ -256,23 +249,103 @@ flowchart LR
 | **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
 | **twig** | Python · Rust · Typer | Git worktree CLI built for humans *and* agents — one-command create/jump/clean, JSON output on every command, real shell-hook `cd`, Rust hot path for agent swarms | [github.com/ml-lubich/twig](https://github.com/ml-lubich/twig) |
 | **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
-| **Reviewly** | Claude API · Next.js · Supabase | AI-powered Google Review automation for businesses | [reviewly-self.vercel.app](https://reviewly-self.vercel.app) |
-| **ScrapeChatAI** | Claude · Playwright · FastAPI | Chat-based web scraper with AI-generated browser scripts | [scrapechat.vercel.app](https://scrapechat.vercel.app) |
-| **LeadPipe AI** | LLM · Next.js · Python | AI-powered lead generation for local trade businesses | [leadpipe-two.vercel.app](https://leadpipe-two.vercel.app) |
 | **W3Sourcing** | Next.js · Tailwind | Premium recruitment platform — Tech, Legal & Finance | [w3sourcing.com](https://w3sourcing.com) |
 | **EnrichData** | AI · CRM · APIs | AI-driven CRM data enhancement platform | [enrichdata.net](https://enrichdata.net) |
 | **Portfolio** | Next.js · Framer Motion | Personal portfolio — 2026 animations & glassmorphism | [mishalubich.com](https://mishalubich.com) |
 | **confluence-cli** | Node.js · Commander · Atlassian API | Confluence CLI with first-class bulk move/delete + idempotent mirror/migration — built to be safely driven by AI agents | [github.com/ml-lubich/confluence-cli](https://github.com/ml-lubich/confluence-cli) |
 | **bitbucket-cli (`bb`)** | Python · Typer · httpx | gh-style CLI for Bitbucket Cloud & Data Center | [github.com/ml-lubich/bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) |
 
-### Agent family (`*-mcp` = CLI + MCP)
+### Open-Source Agent Tools
 
-| Product | CLI | MCP | Install today |
-|---------|-----|-----|---------------|
-| **imsg-mcp** | `imsg` | `imsg-mcp` | `pip install mac-imsg` |
-| **imail-mcp** | `imail` | `apple-mail` / MCP | `pip install mac-imail` |
-| **inotes-mcp** | `inotes` | `apple-notes` | `pip install mac-inotes` |
-| **wa-mcp** | `wa` | `wa-mcp` | `pip install mac-wa mac-wa-mcp` |
+Every tool in the family ships a human-friendly CLI **and** an agent surface (MCP server or `agent schema`) — install once, use from the terminal or from Claude.
 
-`*-mcp` brand ⇒ CLI + MCP for agents (`-h`, `agent schema`). **Exception:** `bitbucket-cli` stays `bitbucket-cli` (CLI-first, not *-mcp). Brew: `ml-lubich/tap/{imsg,imail,inotes,wa}`.
+| Project | CLI | MCP / agent surface | Install |
+|---------|-----|---------------------|---------|
+| **imsg-mcp** | `imsg` | `imsg-mcp` server | `pip install mac-imsg` |
+| **imail-mcp** | `imail` | `agent schema` · pairs with `apple-mail` MCP | `pip install mac-imail` |
+| **inotes-mcp** | `inotes` | `agent schema` · pairs with `apple-notes` MCP | `pip install mac-inotes` |
+| **wa-mcp** | `wa` | `wa-mcp` server | `pip install mac-wa mac-wa-mcp` |
+| **bitbucket-cli** | `bb` | `agent schema` | `pip install bitbucket-client` |
+| **confluence-cli** | `confluence-cli` | agent-safe bulk ops | `brew install ml-lubich/tap/confluence-cli` |
+
+All also on Homebrew: `brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli}`.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ml-lubich">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=0A1F44&title_color=39A7FF&icon_color=39A7FF&text_color=E6EDF3&ring_color=1E5FD9&hide_border=true&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
+  </a>
+  <a href="https://github.com/ml-lubich">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&langs_count=8&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&hide_border=true&cache_seconds=86400" alt="Misha Lubich Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ml-lubich">
+    <img height="180" src="https://streak-stats.demolab.com?user=ml-lubich&theme=transparent&background=0A1F44&border=0A1F44&stroke=1E5FD9&ring=39A7FF&fire=39A7FF&currStreakNum=E6EDF3&currStreakLabel=39A7FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="Misha Lubich GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=0A1F44&color=39A7FF&line=1E5FD9&point=39A7FF&area=true&area_color=1E5FD9&hide_border=true&custom_title=Contribution%20Activity" alt="Misha Lubich GitHub Activity Graph" />
+</p>
+
+---
+
+### 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-3d-contrib/profile-night-view.svg" alt="Misha Lubich 3D GitHub contribution calendar" />
+</p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
+</p>
+
+---
+
+### Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
+</p>
+
+---
+
+### Let's Collaborate
+
+Always interested in working with sharp people on hard problems. If any of these resonate, let's talk:
+
+- **Production LLM / Agentic AI** — MCP servers, multi-agent systems, RAG, evals, guardrails
+- **Forward-Deployed AI Engineering** — embedded enterprise AI delivery, workflow scoping → rollout
+- **Technical Co-founding / Advising** — vertical SaaS, AI-native products
+- **Research Collaboration** — ML, AI safety, applied NLP
+
+**Reach out:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
+
+<p align="center">
+  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA">
+    <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Misha-000000?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a call with Misha Lubich" />
+  </a>
+</p>
+
+---
+
+<!-- KEYWORDS (GitHub search indexing):
+Misha Lubich · ml-lubich · Forward-Deployed AI Engineer · Claude API · Anthropic · MCP servers · model context protocol · multi-agent orchestration · sub-agents · agent skills · RAG pipelines · retrieval augmented generation · LLM production · large language models · prompt engineering · context engineering · evals · guardrails · LangChain · LangGraph · CrewAI · LlamaIndex · RAGAS · DeepEval · LangSmith · pgvector · FAISS · Pinecone · ChromaDB · LoRA · QLoRA · vLLM · fine-tuning · PyTorch · TensorFlow · Python · TypeScript · Go · FastAPI · Next.js · React · Tailwind · Supabase · PostgreSQL · Redis · Kafka · AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · UC Berkeley · ex-Apple · CoreOS · APFS · 100M users · production machine learning · enterprise AI · forward deployed engineer · AI platform · agentic systems · mishalubich.com
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39A7FF,50:1E5FD9,100:0A1F44&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" /></p>
 
