@@ -243,7 +243,7 @@ flowchart LR
 
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
-| **mac-imsg** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `mac-imsg`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
+| **imsg** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `imsg-mcp`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
 | **imail-mcp** | Python · Typer · MCP | Apple Mail CLI (`imail`) + agent schema; MCP via apple-mail — CLI-first, Mail.app only | [github.com/ml-lubich/imail](https://github.com/ml-lubich/imail) |
 | **inotes-mcp** | Python · Typer · MCP | Apple Notes CLI (`inotes`) + agent schema; pairs with `apple-notes-mcp` | [github.com/ml-lubich/inotes](https://github.com/ml-lubich/inotes) |
 | **wa-mcp** (`wa`) | Go · Python · MCP · Typer | `wa` / `wa-mcp` — WhatsApp CLI + MCP (imsg pattern); daemonize bridge, send/contacts/chats/doctor ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
