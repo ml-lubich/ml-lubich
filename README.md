@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — AI Engineer typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Open-Source+Agent+Tools+%C2%B7+imsg+%C2%B7+wa+%C2%B7+bb+%C2%B7+twig;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — AI Engineer typing animation" />
   </a>
 </p>
 
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Experience-5%2B_years-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="5+ years experience" />
   <img src="https://img.shields.io/badge/Research-6_papers-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6 published research papers" />
   <img src="https://img.shields.io/badge/Impact-100M%2B_users-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="100M+ users impacted" />
+  <img src="https://img.shields.io/badge/Open_Source-6%2B_agent_tools-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6+ open-source agent tools" />
 </p>
 
 <p align="center">
@@ -38,7 +39,7 @@
 ### Impact at a Glance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg?v=2" alt="Impact at a Glance — 100M+ users, 6 papers, ex-Apple CoreOS, UC Berkeley CS, Claude + MCP + Agents" width="980" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg?v=3" alt="Impact at a Glance — 100M+ users, 6 papers, ex-Apple CoreOS, UC Berkeley CS, Claude + MCP + Agents" width="980" />
 </p>
 
 <p align="center">
@@ -258,6 +259,19 @@ flowchart LR
 ### Open-Source Agent Tools
 
 Every tool in the family ships a human-friendly CLI **and** an agent surface (MCP server or `agent schema`) — install once, use from the terminal or from Claude.
+
+<p align="center">
+  <a href="https://github.com/ml-lubich/imsg"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=imsg&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="imsg — Rust-accelerated iMessage CLI + MCP" /></a>
+  <a href="https://github.com/ml-lubich/twig"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=twig&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="twig — git worktree CLI for humans and agents" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ml-lubich/like-fable"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=like-fable&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="like-fable — portable prompt library" /></a>
+  <a href="https://github.com/ml-lubich/bitbucket-cli"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=bitbucket-cli&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="bitbucket-cli — gh-style CLI for Bitbucket" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ml-lubich/confluence-cli"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=confluence-cli&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="confluence-cli — agent-safe Confluence bulk ops" /></a>
+  <a href="https://github.com/ml-lubich/inotes"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=inotes&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="inotes — Apple Notes CLI for agents" /></a>
+</p>
 
 | Project | CLI | MCP / agent surface | Install |
 |---------|-----|---------------------|---------|

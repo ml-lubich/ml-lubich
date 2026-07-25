@@ -7,5 +7,12 @@
     </linearGradient>
   </defs>
   <rect x="0" y="5" width="720" height="2" rx="1" fill="url(#line)"/>
-  <circle cx="360" cy="6" r="3.5" fill="#39A7FF"/>
+  <circle cx="360" cy="6" r="3.5" fill="#39A7FF">
+    <animate attributeName="r" values="3.5;5;3.5" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.6;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="6" r="2" fill="#39A7FF">
+    <animate attributeName="cx" values="40;680;40" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0;0.9;0;0.9;0" dur="7s" repeatCount="indefinite"/>
+  </circle>
 </svg>

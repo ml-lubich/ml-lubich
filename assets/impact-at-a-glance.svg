@@ -20,40 +20,54 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <style>
+      .fade { opacity: 0; animation: fadeIn 0.8s ease-out forwards; }
+      .d1 { animation-delay: 0.15s; }
+      .d2 { animation-delay: 0.3s; }
+      .d3 { animation-delay: 0.45s; }
+      .d4 { animation-delay: 0.6s; }
+      .d5 { animation-delay: 0.75s; }
+      .glowp { animation: pulse 5s ease-in-out infinite; }
+      .glowp2 { animation: pulse 5s ease-in-out 2.5s infinite; }
+      .hot { animation: hotStroke 3s ease-in-out infinite; }
+      @keyframes fadeIn { to { opacity: 1; } }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.9; } }
+      @keyframes hotStroke { 0%, 100% { stroke-opacity: 0.55; } 50% { stroke-opacity: 1; } }
+    </style>
   </defs>
 
   <rect width="980" height="168" rx="22" fill="url(#bg)"/>
   <rect x="1.5" y="1.5" width="977" height="165" rx="20.5" fill="none" stroke="url(#accent)" stroke-opacity="0.55"/>
-  <ellipse cx="820" cy="-10" rx="180" ry="90" fill="url(#glow)"/>
-  <ellipse cx="120" cy="180" rx="160" ry="70" fill="url(#glow)" opacity="0.55"/>
+  <ellipse class="glowp" cx="820" cy="-10" rx="180" ry="90" fill="url(#glow)"/>
+  <ellipse class="glowp2" cx="120" cy="180" rx="160" ry="70" fill="url(#glow)" opacity="0.55"/>
 
   <text x="36" y="38" fill="#8FB9FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">IMPACT AT A GLANCE</text>
   <text x="36" y="62" fill="#E6EDF3" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="500">Production AI shipped at real scale — Claude &#183; MCP &#183; multi-agent</text>
 
   <!-- metric cards -->
   <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
-    <g transform="translate(28,82)">
+    <g class="fade d1" transform="translate(28,82)">
       <rect width="178" height="66" rx="14" fill="#081A36" stroke="#1E5FD9" stroke-opacity="0.45"/>
       <text x="18" y="28" fill="#39A7FF" font-size="22" font-weight="800">100M+</text>
       <text x="18" y="50" fill="#9FB3C8" font-size="12" font-weight="600">users impacted</text>
     </g>
-    <g transform="translate(218,82)">
+    <g class="fade d2" transform="translate(218,82)">
       <rect width="178" height="66" rx="14" fill="#081A36" stroke="#1E5FD9" stroke-opacity="0.45"/>
       <text x="18" y="28" fill="#39A7FF" font-size="22" font-weight="800">6</text>
       <text x="18" y="50" fill="#9FB3C8" font-size="12" font-weight="600">research papers</text>
     </g>
-    <g transform="translate(408,82)">
+    <g class="fade d3" transform="translate(408,82)">
       <rect width="178" height="66" rx="14" fill="#081A36" stroke="#1E5FD9" stroke-opacity="0.45"/>
       <text x="18" y="28" fill="#39A7FF" font-size="20" font-weight="800">ex-Apple</text>
       <text x="18" y="50" fill="#9FB3C8" font-size="12" font-weight="600">CoreOS &#183; File Systems</text>
     </g>
-    <g transform="translate(598,82)">
+    <g class="fade d4" transform="translate(598,82)">
       <rect width="178" height="66" rx="14" fill="#081A36" stroke="#1E5FD9" stroke-opacity="0.45"/>
       <text x="18" y="28" fill="#39A7FF" font-size="20" font-weight="800">Berkeley</text>
       <text x="18" y="50" fill="#9FB3C8" font-size="12" font-weight="600">UC Berkeley CS</text>
     </g>
-    <g transform="translate(788,82)">
-      <rect width="164" height="66" rx="14" fill="#081A36" stroke="#39A7FF" stroke-opacity="0.55"/>
+    <g class="fade d5" transform="translate(788,82)">
+      <rect class="hot" width="164" height="66" rx="14" fill="#081A36" stroke="#39A7FF" stroke-opacity="0.55"/>
       <text x="16" y="28" fill="#39A7FF" font-size="18" font-weight="800">Claude+</text>
       <text x="16" y="50" fill="#9FB3C8" font-size="12" font-weight="600">MCP &#183; Agents &#183; Cloud</text>
     </g>
