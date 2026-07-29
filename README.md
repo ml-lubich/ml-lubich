@@ -1,5 +1,3 @@
-<!-- SEO: Misha Lubich | Forward-Deployed AI Engineer | Claude API | MCP servers | multi-agent orchestration | RAG pipelines | LLM production | UC Berkeley | ex-Apple | Python TypeScript Go | Anthropic | OpenAI | Gemini | LangChain | LangGraph | CrewAI | evals guardrails observability | FastAPI Next.js | AWS GCP Azure | 100M users | production machine learning | agent skills | sub-agents | context engineering | prompt engineering | RAGAS DeepEval LangSmith | pgvector FAISS Pinecone | LoRA QLoRA fine-tuning | forward deployed engineer | enterprise AI rollout | mishalubich.com -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Forward-Deployed%20AI%20Engineer%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
 </p>
