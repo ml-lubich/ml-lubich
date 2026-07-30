@@ -16,8 +16,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=39A7FF&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/ml-lubich?tab=followers"><img src="https://img.shields.io/github/followers/ml-lubich?label=Followers&style=for-the-badge&labelColor=0A1F44&color=1E5FD9&logo=github&logoColor=white&cacheSeconds=3600" alt="GitHub followers" /></a>
-  <a href="https://github.com/ml-lubich"><img src="https://img.shields.io/github/stars/ml-lubich?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&labelColor=0A1F44&color=39A7FF&logo=github&logoColor=white&cacheSeconds=3600" alt="GitHub stars" /></a>
   <img src="https://img.shields.io/badge/Experience-5%2B_years-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="5+ years experience" />
   <img src="https://img.shields.io/badge/Research-6_papers-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6 published research papers" />
   <img src="https://img.shields.io/badge/Impact-100M%2B_users-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="100M+ users impacted" />
@@ -258,18 +256,9 @@ flowchart LR
 
 Every tool in the family ships a human-friendly CLI **and** an agent surface (MCP server or `agent schema`) — install once, use from the terminal or from Claude.
 
-<p align="center">
-  <a href="https://github.com/ml-lubich/imsg"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=imsg&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="imsg — Rust-accelerated iMessage CLI + MCP" /></a>
-  <a href="https://github.com/ml-lubich/twig"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=twig&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="twig — git worktree CLI for humans and agents" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ml-lubich/like-fable"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=like-fable&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="like-fable — portable prompt library" /></a>
-  <a href="https://github.com/ml-lubich/bitbucket-cli"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=bitbucket-cli&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="bitbucket-cli — gh-style CLI for Bitbucket" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ml-lubich/confluence-cli"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=confluence-cli&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="confluence-cli — agent-safe Confluence bulk ops" /></a>
-  <a href="https://github.com/ml-lubich/inotes"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ml-lubich&repo=inotes&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&icon_color=39A7FF&hide_border=true" alt="inotes — Apple Notes CLI for agents" /></a>
-</p>
+
+
+
 
 | Project | What it is | Install |
 |---------|------------|---------|
@@ -293,33 +282,6 @@ pip install jenkins-mcp-cli
   <a href="https://github.com/ml-lubich/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-ml--lubich%2Ftap-1E5FD9?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=071428" alt="Homebrew tap ml-lubich/tap" /></a>
   <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-ml--lubich-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI ml-lubich packages" /></a>
   <img src="https://img.shields.io/badge/8_tools-CLI_%2B_agent--ready-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="8 tools, CLI + agent-ready" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ml-lubich">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ml-lubich&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=0A1F44&title_color=39A7FF&icon_color=39A7FF&text_color=E6EDF3&ring_color=1E5FD9&hide_border=true&locale=en&cache_seconds=86400" alt="Misha Lubich GitHub Stats" />
-  </a>
-  <a href="https://github.com/ml-lubich">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ml-lubich&layout=compact&langs_count=8&bg_color=0A1F44&title_color=39A7FF&text_color=E6EDF3&hide_border=true&cache_seconds=86400" alt="Misha Lubich Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ml-lubich">
-    <img height="180" src="https://streak-stats.demolab.com?user=ml-lubich&theme=transparent&background=0A1F44&border=0A1F44&stroke=1E5FD9&ring=39A7FF&fire=39A7FF&currStreakNum=E6EDF3&currStreakLabel=39A7FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="Misha Lubich GitHub Streak" />
-  </a>
-</p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-lubich&bg_color=0A1F44&color=39A7FF&line=1E5FD9&point=39A7FF&area=true&area_color=1E5FD9&hide_border=true&custom_title=Contribution%20Activity" alt="Misha Lubich GitHub Activity Graph" />
 </p>
 
 ---
