@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Forward-Deployed%20AI%20Engineer%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Forward-Deployed AI Engineer, ex-Apple, UC Berkeley" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Forward-Deployed%20AI%20Engineer%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Staff AI Engineer, Forward-Deployed Engineer, ex-Apple, UC Berkeley" />
 </p>
 
-<h2 align="center">Shipping production Claude, MCP &amp; multi-agent systems to <strong>100M+</strong> users</h2>
+<h2 align="center">Shipping production AI Agents via Claude/Codex/Cursor, MCP &amp; multi-agent systems to <strong>100M+</strong> users</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/hero-divider.svg" alt="" width="420" />
