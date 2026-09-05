@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Forward-Deployed+AI+Engineer;Production+LLM+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Open-Source+Agent+Tools+%C2%B7+imsg+%C2%B7+wa+%C2%B7+bb+%C2%B7+twig;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — AI Engineer typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Forward-Deployed+AI+Engineer;Production+LLMs+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Open-Source+Agent+Tools+%C2%B7+imsg+%C2%B7+wa+%C2%B7+bb+%C2%B7+twig;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — AI Engineer typing animation" />
   </a>
 </p>
 
