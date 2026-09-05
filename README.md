@@ -1,339 +1,108 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Staff%20AI%20Engineer%20%40%20EchoStar%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Staff AI Engineer at EchoStar, ex-Apple, UC Berkeley" />
-</p>
-
-<h2 align="center">Shipping production AI Agents via Claude/Codex/Cursor, MCP &amp; multi-agent systems to <strong>100M+</strong> users</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/hero-divider.svg" alt="" width="420" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Staff+AI+Engineer+%40+EchoStar;Production+LLMs+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Open-Source+Agent+Tools+%C2%B7+imsg+%C2%B7+wa+%C2%B7+bb+%C2%B7+twig;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — Staff AI Engineer at EchoStar, ex-Apple, UC Berkeley typing animation" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=39A7FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Experience-5%2B_years-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="5+ years experience" />
-  <img src="https://img.shields.io/badge/Role-Staff_AI_Engineer_%40_EchoStar-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="Staff AI Engineer at EchoStar" />
-  <img src="https://img.shields.io/badge/Research-6_papers-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6 published research papers" />
-  <img src="https://img.shields.io/badge/Impact-100M%2B_users-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="100M+ users impacted" />
-  <img src="https://img.shields.io/badge/Open_Source-6%2B_agent_tools-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6+ open-source agent tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/hero-dark.svg">
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/hero-light.svg" width="1200" alt="Misha Lubich — Staff AI Engineer at EchoStar. Agentic engineer: production LLM systems, MCP servers, multi-agent orchestration, RAG, evals and guardrails. ex-Apple CoreOS, UC Berkeley CS, 6 published papers, 100M+ users. SF Bay Area." />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://mishalubich.com"><img src="https://img.shields.io/badge/Website-mishalubich.com-0A1F44?style=for-the-badge&logo=vercel&logoColor=39A7FF&labelColor=071428" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/misha-lubich/"><img src="https://img.shields.io/badge/LinkedIn-Misha_Lubich-0A1F44?style=for-the-badge&logo=linkedin&logoColor=39A7FF&labelColor=071428" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Citations-0A1F44?style=for-the-badge&logo=googlescholar&logoColor=39A7FF&labelColor=071428" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-6_papers-0A1F44?style=for-the-badge&logo=googlescholar&logoColor=39A7FF&labelColor=071428" alt="Google Scholar" /></a>
   <a href="mailto:michaelle.lubich@gmail.com"><img src="https://img.shields.io/badge/Email-michaelle.lubich%40gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=39A7FF&labelColor=071428" alt="Email" /></a>
   <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA"><img src="https://img.shields.io/badge/Book_a_Call-Open_Calendar-1E5FD9?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=071428" alt="Book a call" /></a>
 </p>
 
----
-
-### Impact at a Glance
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg?v=5" alt="Impact at a Glance — Staff AI Engineer at EchoStar, 100M+ users, 6 papers, ex-Apple, UC Berkeley" width="980" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-dark.svg">
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-light.svg" width="1200" alt="Impact at a glance: 100M+ users reached with production AI, 6 published papers (ML and hydrology), 10 open-source agent tools (CLI + MCP), 5+ years shipping at Apple, Walmart, LBNL and Polaris Wireless, ex-Apple CoreOS / File Systems." />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-Sonnet%20%C2%B7%20Opus%20%C2%B7%20Haiku-0A1F44?style=flat-square&logo=anthropic&logoColor=39A7FF&labelColor=071428" alt="Claude" />
-  <img src="https://img.shields.io/badge/MCP-Tool%20Servers-0A1F44?style=flat-square&labelColor=071428&color=1E5FD9" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agents-Multi--agent%20orchestration-0A1F44?style=flat-square&labelColor=071428&color=39A7FF" alt="Agents" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-0A1F44?style=flat-square&logo=amazonwebservices&logoColor=39A7FF&labelColor=071428" alt="Cloud" />
-  <img src="https://img.shields.io/badge/Evals-RAGAS%20%C2%B7%20DeepEval%20%C2%B7%20LangSmith-0A1F44?style=flat-square&labelColor=071428&color=1E5FD9" alt="Evals" />
-</p>
+### About
 
----
+**Staff AI Engineer @ EchoStar** (SF Bay Area) — I build the retrieval, agent-orchestration and evaluation pipelines that put LLMs in front of millions of consumers. Before that: agentic data engines on carrier-scale spatial data at Polaris Wireless, APFS test automation at Apple CoreOS, ad-targeting ML at Walmart, ML research at LBNL. UC Berkeley CS '23, 6 published papers.
+
+| | |
+|---|---|
+| **Currently** | Agents, RAG and evals at consumer-telecom scale · growing the [open-source agent-tool family](#open-source-agent-tools) |
+| **Ask me about** | MCP tool servers · sub-agents & agent skills · eval-driven development · prompt-injection defense · vLLM serving · context engineering |
+| **Reach me** | [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/) |
 
 ### AI Token Usage
 
 <p align="center">
   <a href="https://tokscale.ai/u/ml-lubich"><img src="https://tokscale.ai/api/embed/ml-lubich/svg?sort=cost&compact=1" alt="Misha Lubich — AI token usage tracked by tokscale" /></a>
 </p>
-
 <p align="center">
   <a href="https://tokscale.ai/leaderboard"><img src="https://img.shields.io/badge/Global_Leaderboard-tokscale.ai-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="tokscale global leaderboard" /></a>
   <a href="https://tokscale.ai/u/ml-lubich"><img src="https://img.shields.io/badge/Full_Stats-/u/ml--lubich-0A1F44?style=for-the-badge&labelColor=071428&color=39A7FF" alt="Full tokscale stats for ml-lubich" /></a>
 </p>
 
----
-
-### Table of Contents
-
-- [About Me](#about-me)
-- [AI Token Usage](#ai-token-usage)
-- [What I'm Building](#what-im-building)
-- [Career Timeline](#career-timeline)
-- [Skill Graph](#skill-graph)
-- [Tech Stack](#tech-stack)
-- [Research & Publications](#research--publications)
-- [Featured Projects](#featured-projects)
-- [Open-Source Agent Tools](#open-source-agent-tools)
-- [GitHub Stats](#github-stats)
-- [Contribution Graph](#contribution-graph)
-- [3D Contribution Calendar](#3d-contribution-calendar)
-- [Contribution Snake](#contribution-snake)
-- [Let's Collaborate](#lets-collaborate)
-
----
-
-### About Me
-
-I'm **Misha Lubich**, a **Staff AI Engineer at EchoStar** specializing in **customer-embedded, production-grade LLM (large language model) delivery**. I embed with enterprise engineering teams, scope real-world workflows, and ship **Anthropic Claude** and multi-model AI applications hardened with **evals, guardrails, and observability**. I designed and deployed a production AI platform with **multi-agent orchestration**, **Model Context Protocol (MCP) tool servers**, **sub-agents**, and **retrieval-augmented generation (RAG) pipelines** serving **100M+ users at sub-second P95 latency**. **UC Berkeley Computer Science** graduate, **ex-Apple (CoreOS / File Systems)**, with **6 published research papers**.
-
-- **Currently:** **Staff AI Engineer @ EchoStar** — shipping production agentic AI systems (MCP servers, sub-agents, agent skills, LLM eval harnesses)
-- **How I work:** Embedded with customer engineering and domain teams; high agency under ambiguity; codifying reusable enterprise AI deployment patterns
-- **Stack:** Anthropic Claude (Sonnet · Opus · Haiku) · Claude API · OpenAI GPT · Google Gemini · Python · TypeScript · FastAPI · Next.js · AWS · GCP · Azure
-- **Ask me about:** Production LLM applications, AI agent design, prompt engineering + context engineering, eval-driven development, multi-agent orchestration, MCP integrations
-- **Reach me:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com)
-- **Keywords:** `Staff AI Engineer` · `EchoStar` · `AI engineer` · `LLM engineer` · `Claude API` · `Anthropic` · `MCP servers` · `multi-agent systems` · `RAG` · `forward-deployed engineer` · `production AI` · `LLM evals` · `AI guardrails`
-
----
-
-### What I'm Building
-
-```mermaid
-flowchart LR
-    ME(("👨‍💻<br/>Misha"))
-    AI{{"🤖 Production AI<br/>Claude · MCP · sub-agents · agent skills"}}
-    FDE["🤝 Staff AI @ EchoStar<br/>discovery · scoping · rollout"]
-    SAAS["🚀 Product · SaaS<br/>Lupfr · EnrichData · W3Sourcing"]
-    WEB["🌐 Web · TypeScript<br/>Next.js · Tailwind · Bun"]
-    PY["🐍 Python · ML<br/>PyTorch · LangChain · LangGraph · CrewAI"]
-    EVAL["🧪 Evals · Guardrails<br/>RAGAS · DeepEval · LangSmith"]
-    INFRA["☁️ Cloud / Infra<br/>AWS · GCP · K8s · Terraform · Bedrock · Vertex"]
-    USERS[/"📈 100M+ users<br/>shipped"/]
-
-    ME --> FDE
-    ME --> AI
-    ME --> SAAS
-    FDE --> AI
-    AI --> PY
-    AI --> EVAL
-    SAAS --> WEB
-    AI --> INFRA
-    SAAS --> INFRA
-    AI --> USERS
-    SAAS --> USERS
-    FDE --> USERS
-
-    classDef io fill:#000000,stroke:#ffffff,stroke-width:1px,color:#ffffff;
-    classDef brain fill:#000000,stroke:#ffffff,stroke-width:2px,color:#ffffff;
-    classDef tool fill:#000000,stroke:#ffffff,stroke-width:1px,stroke-dasharray:4 3,color:#ffffff;
-    classDef out fill:#ffffff,stroke:#ffffff,stroke-width:1px,color:#000000;
-    class ME io;
-    class AI,FDE brain;
-    class SAAS,WEB,PY,INFRA,EVAL tool;
-    class USERS out;
-```
-
----
-
-### Career Timeline
-
-```mermaid
-timeline
-    title Career trajectory
-    2019 : UC Berkeley — CS undergrad
-    2021 : Honda Innovations — SWE intern (ML route optimization)
-         : LBNL — ML research intern (env. data)
-    2022 : Walmart Global Tech — SWE intern (ad-targeting ML, Spring Boot)
-    2023 : Apple — SDET, CoreOS / File Systems (APFS, LLM-assisted automation)
-    2024 : Independent consulting — lupfr.com · w3sourcing.com
-    2025 : Indie SaaS — vertical AI products · consulting
-    2026 : EchoStar — Staff AI Engineer (MCP · multi-agent · 100M+ users)
-```
-
----
-
-### Skill Graph
-
-```mermaid
-flowchart LR
-    AI(("AI / ML"))
-    SYS(("Systems"))
-    FDE(("Forward Deploy"))
-    PROD(("Product"))
-
-    LLM["Claude · GPT<br/>Gemini · RAG"]
-    AGENT["MCP servers<br/>sub-agents<br/>agent skills"]
-    PROMPT["prompt +<br/>context eng."]
-    EVAL["evals · guardrails<br/>obs (RAGAS<br/>DeepEval · LangSmith)"]
-    DL["PyTorch<br/>fine-tuning<br/>(LoRA · QLoRA)"]
-    DIST["distributed compute<br/>streaming"]
-    CLOUD["AWS · GCP · Azure<br/>k8s · Bedrock · Vertex"]
-    DB["Postgres · pgvector<br/>Supabase · Redis"]
-    DISCOVERY["customer discovery<br/>workflow scoping"]
-    DELIVERY["white-glove deploy<br/>rollout patterns"]
-    HIGH["high agency<br/>ambiguity<br/>cross-functional"]
-    WEB["Next.js · React<br/>Tailwind · FastAPI"]
-    UX["product · UX<br/>pricing"]
-    SHIP["ship fast · iterate<br/>eval-driven"]
-
-    AI --> LLM
-    AI --> AGENT
-    AI --> PROMPT
-    AI --> EVAL
-    AI --> DL
-    SYS --> DIST
-    SYS --> CLOUD
-    SYS --> DB
-    FDE --> DISCOVERY
-    FDE --> DELIVERY
-    FDE --> HIGH
-    PROD --> WEB
-    PROD --> UX
-    PROD --> SHIP
-    AGENT -.-> EVAL
-    EVAL  -.-> CLOUD
-    LLM   -.-> WEB
-    DB    -.-> WEB
-    DELIVERY -.-> AGENT
-```
-
----
-
-### Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,rust,cs,kotlin,pytorch,tensorflow,openai,react,nextjs,tailwind&perline=14" alt="Languages & AI Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,graphql,express,spring,svelte,vue,angular,aws,gcp,azure,vercel&perline=14" alt="Backend Frameworks & Cloud Providers" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,redis,postgres,mongodb,mysql,sqlite,supabase,firebase,cassandra,kafka,git,github&perline=14" alt="DevOps, Databases & Infrastructure" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,ansible,jenkins,githubactions,vscode,figma,postman,grafana,prometheus,elasticsearch,sentry,cloudflare&perline=14" alt="Tooling & Observability" /><br/>
-  <img src="https://skillicons.dev/icons?i=bun,deno,astro,vite,prisma,remix,tauri,electron,flutter,dart,swift,ruby,php,elixir&perline=14" alt="2026 Extended Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=threejs,scala,haskell,lua,r,unity,unreal,blender,jest,cypress,gitlab,bitbucket,notion,discord&perline=14" alt="Additional Tools" />
-</p>
-
-**Languages:** Python · TypeScript · Go · Java · C++ · Rust · SQL  
-**LLMs & APIs:** Claude (Sonnet · Opus · Haiku) · Anthropic API · OpenAI · Gemini · Llama · Qwen · DeepSeek · Bedrock · Vertex AI · Azure OpenAI  
-**Agents & Tooling:** MCP tool servers · sub-agents · agent skills · multi-agent orchestration (CrewAI · LangGraph) · LangChain · LlamaIndex · function calling · structured output (Pydantic)  
-**RAG & Vectors:** RAG pipelines · adaptive chunking · re-ranking · pgvector · FAISS · Pinecone · ChromaDB  
-**Prompt & Context Engineering:** advanced prompt design · context engineering · guardrails · prompt-injection defense · OWASP LLM Top 10  
-**Eval & Observability:** RAGAS · DeepEval · LangSmith · offline/online eval harnesses · A/B testing · Prometheus · Grafana · OpenTelemetry · Datadog  
-**Fine-Tuning & Training:** PyTorch · TensorFlow · LoRA · QLoRA · vLLM · SageMaker · MLflow  
-**Frontend:** React · Next.js · Tailwind CSS · Framer Motion · Streamlit · Gradio  
-**Backend:** Node.js · FastAPI · Spring Boot · PostgreSQL · Supabase · Redis · Kafka · gRPC  
-**Cloud:** AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · Pulumi  
-**Customer Delivery:** technical discovery · workflow scoping · white-glove enterprise rollout · reusable deployment patterns · stakeholder communication · high-agency operation under ambiguity
-
----
-
-### Research & Publications
+### Career
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-6%20Publications-000000?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar — 6 Publications" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/timeline-dark.svg">
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/timeline-light.svg" width="1200" alt="Career timeline: Honda Innovations SWE intern (Jan–May 2021), Lawrence Berkeley National Laboratory software engineer (May–Aug 2021), Walmart software engineer (May–Aug 2022), Apple SDET CoreOS / File Systems (Jan 2023–Jul 2024), UC Berkeley B.A. Computer Science 2023, Polaris Wireless Platform & AI Engineer (Sep 2024–Sep 2026), EchoStar Staff AI Engineer (Sep 2026–present). 2026: offers and final rounds at Anduril and Mach Industries; chose EchoStar for consumer-scale impact." />
+  </picture>
 </p>
 
-6 peer-reviewed research papers spanning **machine learning**, **environmental data science**, and **systems**. Published during and after UC Berkeley — spanning work at Lawrence Berkeley National Laboratory (LBNL) and beyond.
+### Skills
 
-> Full citation list → [scholar.google.com/citations?user=Be6ZA78AAAAJ](https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ)
-
----
-
-### Featured Projects
-
-| Project | Stack | Description | Link |
-|---------|-------|-------------|------|
-| **imsg** | Python · Rust · MCP · Typer | Local iMessage CLI + MCP — Rust-accelerated read/search, AppleScript send (`imsg` / `imsg-mcp`) | [github.com/ml-lubich/imsg](https://github.com/ml-lubich/imsg) |
-| **imail-mcp** | Python · Typer · MCP | Apple Mail CLI (`imail`) + agent schema; MCP via apple-mail — CLI-first, Mail.app only | [github.com/ml-lubich/imail](https://github.com/ml-lubich/imail) |
-| **inotes-mcp** | Python · Typer · MCP | Apple Notes CLI (`inotes`) + agent schema; pairs with `apple-notes-mcp` | [github.com/ml-lubich/inotes](https://github.com/ml-lubich/inotes) |
-| **wa-mcp** (`wa`) | Go · Python · MCP · Typer | `wa` / `wa-mcp` — WhatsApp CLI + MCP (imsg pattern); daemonize bridge, send/contacts/chats/doctor ([PR #294](https://github.com/lharries/whatsapp-mcp/pull/294)) | [github.com/ml-lubich/whatsapp-mcp](https://github.com/ml-lubich/whatsapp-mcp) |
-| **like-fable** | Prompt Engineering · LLM | Portable prompt library that makes any AI (Opus · GPT · Gemini · Cursor) operate like a top-tier collaborator | [github.com/ml-lubich/like-fable](https://github.com/ml-lubich/like-fable) |
-| **twig** | Python · Rust · Typer | Git worktree CLI built for humans *and* agents — one-command create/jump/clean, JSON output on every command, real shell-hook `cd`, Rust hot path for agent swarms | [github.com/ml-lubich/twig](https://github.com/ml-lubich/twig) |
-| **Lupfr** | Next.js · TypeScript · AI | SF music events & talent curation platform | [lupfr.com](https://lupfr.com) |
-| **W3Sourcing** | Next.js · Tailwind | Premium recruitment platform — Tech, Legal & Finance | [w3sourcing.com](https://w3sourcing.com) |
-| **EnrichData** | AI · CRM · APIs | AI-driven CRM data enhancement platform | [enrichdata.net](https://enrichdata.net) |
-| **Portfolio** | Next.js · Framer Motion | Personal portfolio — 2026 animations & glassmorphism | [mishalubich.com](https://mishalubich.com) |
-| **confluence-cli** | Node.js · Commander · Atlassian API | Confluence CLI with first-class bulk move/delete + idempotent mirror/migration — built to be safely driven by AI agents | [github.com/ml-lubich/confluence-cli](https://github.com/ml-lubich/confluence-cli) |
-| **bitbucket-cli (`bb`)** | Python · Typer · httpx | gh-style CLI for Bitbucket Cloud & Data Center | [github.com/ml-lubich/bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/skills-dark.svg">
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/skills-light.svg" width="1200" alt="Skill constellation: Agents & MCP (Claude API, MCP servers, sub-agents, agent skills), Multi-Agent (LangGraph, CrewAI, orchestration, loop-detection), RAG (pgvector, FAISS, re-ranking, adaptive chunking), Evals & Guardrails (RAGAS, DeepEval, LangSmith, prompt-injection defense), MLOps & Cloud (AWS, GCP, Kubernetes, vLLM, Terraform), PyTorch / TensorFlow (fine-tuning, LoRA, QLoRA, SageMaker, MLflow). Python, TypeScript, Rust, Go, FastAPI, Next.js, Postgres, Kafka, ClickHouse." />
+  </picture>
+</p>
 
 ### Open-Source Agent Tools
 
-Every tool in the family ships a human-friendly CLI **and** an agent surface (MCP server or `agent schema`) — install once, use from the terminal or from Claude.
-
-
-
-
-
-| Project | What it is | Install |
-|---------|------------|---------|
-| **[bitbucket-client](https://github.com/ml-lubich/bitbucket-cli)** (`bb`) | gh-style CLI for Bitbucket Cloud & Data Center, with a read-only MCP server | `brew install ml-lubich/tap/bitbucket-client` · `pip install bitbucket-client` |
-| **[confluence-cli](https://github.com/ml-lubich/confluence-cli)** | Confluence CLI with bulk ops, built for AI agents | `brew install ml-lubich/tap/confluence-cli` · `npm i -g @ml-lubich/confluence-cli` |
-| **[imsg](https://github.com/ml-lubich/imsg)** | Local iMessage CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imsg` · `pip install mac-imsg` |
-| **[imail](https://github.com/ml-lubich/imail)** | Apple Mail CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/imail` · `pip install imail-mcp` |
-| **[inotes](https://github.com/ml-lubich/inotes)** | Apple Notes CLI + MCP server *(macOS)* | `brew install ml-lubich/tap/inotes` · `pip install inotes-mcp` |
-| **[pdfify-md](https://github.com/ml-lubich/pdfify-md)** | Markdown/Mermaid to clean PDF, cross-platform | `brew install ml-lubich/tap/pdfify-md` · `npm i -g pdfify-md` |
-| **[jenkins-mcp](https://github.com/ml-lubich/jenkins-mcp)** | Jenkins CLI / MCP server | `pip install jenkins-mcp-cli` |
-| **[wa-mcp](https://github.com/ml-lubich/whatsapp-mcp)** (`wa`) | WhatsApp CLI + MCP, imsg pattern | `pip install mac-wa mac-wa-mcp` |
-
-#### ⚡ The whole toolbox, one line
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/tools-dark.svg">
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/tools-light.svg" width="1200" alt="Open-source agent tool family by Misha Lubich — every tool is a human CLI plus an MCP server: imsg (iMessage), imail (Apple Mail), inotes (Apple Notes), wa (WhatsApp), bb (bitbucket-cli), confluence-cli, pdfify-md, jenkins-mcp, twig (git worktrees for agent swarms), like-fable (prompt library). Homebrew tap ml-lubich/tap." />
+  </picture>
+</p>
 
 ```bash
 brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli,pdfify-md}
-pip install jenkins-mcp-cli
+pip install jenkins-mcp-cli twig-cli
 ```
 
 <p align="center">
   <a href="https://github.com/ml-lubich/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-ml--lubich%2Ftap-1E5FD9?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=071428" alt="Homebrew tap ml-lubich/tap" /></a>
   <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-ml--lubich-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI ml-lubich packages" /></a>
-  <img src="https://img.shields.io/badge/8_tools-CLI_%2B_agent--ready-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="8 tools, CLI + agent-ready" />
+  <a href="https://github.com/ml-lubich?tab=repositories"><img src="https://img.shields.io/badge/10_tools-CLI_%2B_MCP-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="10 tools, CLI + MCP" /></a>
 </p>
 
----
+[imsg](https://github.com/ml-lubich/imsg) · [imail](https://github.com/ml-lubich/imail) · [inotes](https://github.com/ml-lubich/inotes) · [wa](https://github.com/ml-lubich/whatsapp-mcp) · [bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) · [confluence-cli](https://github.com/ml-lubich/confluence-cli) · [pdfify-md](https://github.com/ml-lubich/pdfify-md) · [jenkins-mcp](https://github.com/ml-lubich/jenkins-mcp) · [twig](https://github.com/ml-lubich/twig) · [like-fable](https://github.com/ml-lubich/like-fable)
 
-### 3D Contribution Calendar
+**Products:** [Lupfr](https://lupfr.com) (SF music events & talent) · [W3Sourcing](https://w3sourcing.com) (recruitment) · [EnrichData](https://enrichdata.net) (AI CRM enrichment) · [mishalubich.com](https://mishalubich.com)
+
+### Research
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-6%20Publications-000000?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar — 6 Publications" /></a>
+</p>
+
+6 peer-reviewed papers in machine learning and hydrology, from UC Berkeley and Lawrence Berkeley National Laboratory → [full list on Scholar](https://scholar.google.com/citations?hl=en&user=Be6ZA78AAAAJ).
+
+### GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/profile-3d-contrib/profile-night-view.svg" alt="Misha Lubich 3D GitHub contribution calendar" />
 </p>
-
----
-
-### Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
 </p>
 
----
-
-### Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
-</p>
-
----
-
 ### Let's Collaborate
 
-Always interested in working with sharp people on hard problems. If any of these resonate, let's talk:
-
-- **Production LLM / Agentic AI** — MCP servers, multi-agent systems, RAG, evals, guardrails
-- **Staff / Forward-Deployed AI Engineering** — EchoStar-scale delivery, workflow scoping → rollout
-- **Technical Co-founding / Advising** — vertical SaaS, AI-native products
-- **Research Collaboration** — ML, AI safety, applied NLP
-
-**Reach out:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com) · [LinkedIn](https://www.linkedin.com/in/misha-lubich/)
+Production agentic AI (MCP, multi-agent, RAG, evals), technical co-founding / advising, or ML research — if that's you, [email me](mailto:michaelle.lubich@gmail.com) or [book a call](https://calendar.app.google/TiRNRdR2cDvenu9TA).
 
 <p align="center">
-  <a href="https://calendar.app.google/TiRNRdR2cDvenu9TA">
-    <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Misha-000000?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a call with Misha Lubich" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/hero-divider.svg" alt="" width="420" />
 </p>
-
----
-
-<!-- KEYWORDS (GitHub search indexing):
-Misha Lubich · ml-lubich · Staff AI Engineer · EchoStar · Forward-Deployed AI Engineer · Claude API · Anthropic · MCP servers · model context protocol · multi-agent orchestration · sub-agents · agent skills · RAG pipelines · retrieval augmented generation · LLM production · large language models · prompt engineering · context engineering · evals · guardrails · LangChain · LangGraph · CrewAI · LlamaIndex · RAGAS · DeepEval · LangSmith · pgvector · FAISS · Pinecone · ChromaDB · LoRA · QLoRA · vLLM · fine-tuning · PyTorch · TensorFlow · Python · TypeScript · Go · FastAPI · Next.js · React · Tailwind · Supabase · PostgreSQL · Redis · Kafka · AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · UC Berkeley · ex-Apple · CoreOS · APFS · 100M users · production machine learning · enterprise AI · forward deployed engineer · AI platform · agentic systems · mishalubich.com
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39A7FF,50:1E5FD9,100:0A1F44&height=120&section=footer&text=Ship%20fast.%20Ship%20clean.%20Then%20ship%20faster.&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" /></p>
-
