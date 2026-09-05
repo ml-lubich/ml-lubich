@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Forward-Deployed%20AI%20Engineer%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Staff AI Engineer, Forward-Deployed Engineer, ex-Apple, UC Berkeley" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,40:0A1F44,70:1E5FD9,100:39A7FF&height=260&section=header&text=Misha%20Lubich&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Staff%20AI%20Engineer%20%40%20EchoStart%20%C2%B7%20ex-Apple%20CoreOS%20%C2%B7%20UC%20Berkeley%20CS&descAlignY=58&descSize=20&animation=fadeIn" alt="Misha Lubich — Staff AI Engineer at EchoStart, ex-Apple, UC Berkeley" />
 </p>
 
 <h2 align="center">Shipping production AI Agents via Claude/Codex/Cursor, MCP &amp; multi-agent systems to <strong>100M+</strong> users</h2>
@@ -10,13 +10,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Forward-Deployed+AI+Engineer;Production+LLMs+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Open-Source+Agent+Tools+%C2%B7+imsg+%C2%B7+wa+%C2%B7+bb+%C2%B7+twig;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — Staff AI Engineer, Forward-Deployed Engineer, ex-Apple, UC Berkeley typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=39A7FF&center=true&vCenter=true&multiline=false&width=920&height=36&lines=Staff+AI+Engineer+%40+EchoStart;Production+LLMs+%7C+MCP+Servers+%7C+Multi-Agent+Systems;Claude+%C2%B7+sub-agents+%C2%B7+agent+skills+%C2%B7+RAG;Open-Source+Agent+Tools+%C2%B7+imsg+%C2%B7+wa+%C2%B7+bb+%C2%B7+twig;Evals+%C2%B7+Guardrails+%C2%B7+Observability+at+Scale;ex-Apple+CoreOS+%C2%B7+UC+Berkeley+CS+%C2%B7+6+Papers" alt="Misha Lubich — Staff AI Engineer at EchoStart, ex-Apple, UC Berkeley typing animation" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ml-lubich&label=Profile%20views&color=39A7FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Experience-5%2B_years-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="5+ years experience" />
+  <img src="https://img.shields.io/badge/Role-Staff_AI_Engineer_%40_EchoStart-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="Staff AI Engineer at EchoStart" />
   <img src="https://img.shields.io/badge/Research-6_papers-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6 published research papers" />
   <img src="https://img.shields.io/badge/Impact-100M%2B_users-39A7FF?style=for-the-badge&labelColor=0A1F44" alt="100M+ users impacted" />
   <img src="https://img.shields.io/badge/Open_Source-6%2B_agent_tools-1E5FD9?style=for-the-badge&labelColor=0A1F44" alt="6+ open-source agent tools" />
@@ -35,7 +36,7 @@
 ### Impact at a Glance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg?v=3" alt="Impact at a Glance — 100M+ users, 6 papers, ex-Apple CoreOS, UC Berkeley CS, Claude + MCP + Agents" width="980" />
+  <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-at-a-glance.svg?v=4" alt="Impact at a Glance — Staff AI Engineer at EchoStart, 100M+ users, 6 papers, ex-Apple, UC Berkeley" width="980" />
 </p>
 
 <p align="center">
@@ -82,14 +83,14 @@
 
 ### About Me
 
-I'm **Misha Lubich**, a **Forward-Deployed AI Engineer** specializing in **customer-embedded, production-grade LLM (large language model) delivery**. I embed with enterprise engineering teams, scope real-world workflows, and ship **Anthropic Claude** and multi-model AI applications hardened with **evals, guardrails, and observability**. I designed and deployed a production AI platform with **multi-agent orchestration**, **Model Context Protocol (MCP) tool servers**, **sub-agents**, and **retrieval-augmented generation (RAG) pipelines** serving **100M+ users at sub-second P95 latency**. **UC Berkeley Computer Science** graduate, **ex-Apple (CoreOS / File Systems)**, with **6 published research papers**.
+I'm **Misha Lubich**, a **Staff AI Engineer at EchoStart** specializing in **customer-embedded, production-grade LLM (large language model) delivery**. I embed with enterprise engineering teams, scope real-world workflows, and ship **Anthropic Claude** and multi-model AI applications hardened with **evals, guardrails, and observability**. I designed and deployed a production AI platform with **multi-agent orchestration**, **Model Context Protocol (MCP) tool servers**, **sub-agents**, and **retrieval-augmented generation (RAG) pipelines** serving **100M+ users at sub-second P95 latency**. **UC Berkeley Computer Science** graduate, **ex-Apple (CoreOS / File Systems)**, with **6 published research papers**.
 
-- **Currently:** Shipping production agentic AI systems — Model Context Protocol (MCP) servers, sub-agents, agent skills, and LLM eval harnesses
+- **Currently:** **Staff AI Engineer @ EchoStart** — shipping production agentic AI systems (MCP servers, sub-agents, agent skills, LLM eval harnesses)
 - **How I work:** Embedded with customer engineering and domain teams; high agency under ambiguity; codifying reusable enterprise AI deployment patterns
 - **Stack:** Anthropic Claude (Sonnet · Opus · Haiku) · Claude API · OpenAI GPT · Google Gemini · Python · TypeScript · FastAPI · Next.js · AWS · GCP · Azure
 - **Ask me about:** Production LLM applications, AI agent design, prompt engineering + context engineering, eval-driven development, multi-agent orchestration, MCP integrations
 - **Reach me:** [michaelle.lubich@gmail.com](mailto:michaelle.lubich@gmail.com) · [mishalubich.com](https://mishalubich.com)
-- **Keywords:** `AI engineer` · `LLM engineer` · `Claude API` · `Anthropic` · `MCP servers` · `multi-agent systems` · `RAG` · `forward-deployed engineer` · `production AI` · `LLM evals` · `AI guardrails`
+- **Keywords:** `Staff AI Engineer` · `EchoStart` · `AI engineer` · `LLM engineer` · `Claude API` · `Anthropic` · `MCP servers` · `multi-agent systems` · `RAG` · `forward-deployed engineer` · `production AI` · `LLM evals` · `AI guardrails`
 
 ---
 
@@ -99,7 +100,7 @@ I'm **Misha Lubich**, a **Forward-Deployed AI Engineer** specializing in **custo
 flowchart LR
     ME(("👨‍💻<br/>Misha"))
     AI{{"🤖 Production AI<br/>Claude · MCP · sub-agents · agent skills"}}
-    FDE["🤝 Forward-Deployed<br/>discovery · scoping · rollout"]
+    FDE["🤝 Staff AI @ EchoStart<br/>discovery · scoping · rollout"]
     SAAS["🚀 Product · SaaS<br/>Lupfr · EnrichData · W3Sourcing"]
     WEB["🌐 Web · TypeScript<br/>Next.js · Tailwind · Bun"]
     PY["🐍 Python · ML<br/>PyTorch · LangChain · LangGraph · CrewAI"]
@@ -144,7 +145,7 @@ timeline
     2023 : Apple — SDET, CoreOS / File Systems (APFS, LLM-assisted automation)
     2024 : Independent consulting — lupfr.com · w3sourcing.com
     2025 : Indie SaaS — vertical AI products · consulting
-    2026 : Production AI — MCP servers · multi-agent · 100M+ users
+    2026 : EchoStart — Staff AI Engineer (MCP · multi-agent · 100M+ users)
 ```
 
 ---
@@ -315,7 +316,7 @@ pip install jenkins-mcp-cli
 Always interested in working with sharp people on hard problems. If any of these resonate, let's talk:
 
 - **Production LLM / Agentic AI** — MCP servers, multi-agent systems, RAG, evals, guardrails
-- **Forward-Deployed AI Engineering** — embedded enterprise AI delivery, workflow scoping → rollout
+- **Staff / Forward-Deployed AI Engineering** — EchoStart-scale delivery, workflow scoping → rollout
 - **Technical Co-founding / Advising** — vertical SaaS, AI-native products
 - **Research Collaboration** — ML, AI safety, applied NLP
 
@@ -330,7 +331,7 @@ Always interested in working with sharp people on hard problems. If any of these
 ---
 
 <!-- KEYWORDS (GitHub search indexing):
-Misha Lubich · ml-lubich · Forward-Deployed AI Engineer · Claude API · Anthropic · MCP servers · model context protocol · multi-agent orchestration · sub-agents · agent skills · RAG pipelines · retrieval augmented generation · LLM production · large language models · prompt engineering · context engineering · evals · guardrails · LangChain · LangGraph · CrewAI · LlamaIndex · RAGAS · DeepEval · LangSmith · pgvector · FAISS · Pinecone · ChromaDB · LoRA · QLoRA · vLLM · fine-tuning · PyTorch · TensorFlow · Python · TypeScript · Go · FastAPI · Next.js · React · Tailwind · Supabase · PostgreSQL · Redis · Kafka · AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · UC Berkeley · ex-Apple · CoreOS · APFS · 100M users · production machine learning · enterprise AI · forward deployed engineer · AI platform · agentic systems · mishalubich.com
+Misha Lubich · ml-lubich · Staff AI Engineer · EchoStart · Forward-Deployed AI Engineer · Claude API · Anthropic · MCP servers · model context protocol · multi-agent orchestration · sub-agents · agent skills · RAG pipelines · retrieval augmented generation · LLM production · large language models · prompt engineering · context engineering · evals · guardrails · LangChain · LangGraph · CrewAI · LlamaIndex · RAGAS · DeepEval · LangSmith · pgvector · FAISS · Pinecone · ChromaDB · LoRA · QLoRA · vLLM · fine-tuning · PyTorch · TensorFlow · Python · TypeScript · Go · FastAPI · Next.js · React · Tailwind · Supabase · PostgreSQL · Redis · Kafka · AWS · GCP · Azure · Vercel · Docker · Kubernetes · Terraform · UC Berkeley · ex-Apple · CoreOS · APFS · 100M users · production machine learning · enterprise AI · forward deployed engineer · AI platform · agentic systems · mishalubich.com
 -->
 
 <p align="center">
