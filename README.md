@@ -45,7 +45,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/timeline-dark.svg">
-    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/timeline-light.svg" width="1200" alt="Career timeline: Honda Innovations SWE intern (Jan–May 2021), Lawrence Berkeley National Laboratory software engineer (May–Aug 2021), Walmart software engineer (May–Aug 2022), Apple SDET CoreOS / File Systems (Jan 2023–Jul 2024), UC Berkeley B.A. Computer Science 2023, Polaris Wireless Platform & AI Engineer (Sep 2024–Sep 2026), EchoStar Staff AI Engineer (Sep 2026–present). 2026: offers and final rounds at Anduril and Mach Industries; chose EchoStar for consumer-scale impact." />
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/timeline-light.svg" width="1200" alt="Career timeline: Honda Innovations SWE intern (Jan–May 2021), Lawrence Berkeley National Laboratory software engineer (May–Aug 2021), Walmart software engineer (May–Aug 2022), Apple SDET CoreOS / File Systems (Jan 2023–Jul 2024), UC Berkeley B.A. Computer Science 2023, Polaris Wireless Platform & AI Engineer (Sep 2024–Sep 2026), EchoStar Staff AI Engineer (Sep 2026–present). Reached Staff AI in under 3 years — consumer-scale agent and RAG for millions." />
   </picture>
 </p>
 

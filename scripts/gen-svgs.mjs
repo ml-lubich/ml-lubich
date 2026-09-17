@@ -229,9 +229,9 @@ ${roles.map((r, i) => {
 <!-- honest side-note -->
 <g class="in" style="animation-delay:2.4s" transform="translate(40,${H - 32})">
   <circle cx="5" cy="-4" r="3" fill="${t.accent}"/>
-  <text x="16" fill="${t.muted}" font-size="11.5">2026: offers &amp; final rounds at <tspan fill="${t.text}" font-weight="700">Anduril</tspan> and <tspan fill="${t.text}" font-weight="700">Mach Industries</tspan> — chose EchoStar for consumer-scale impact.</text>
+  <text x="16" fill="${t.muted}" font-size="11.5">2026: reached <tspan fill="${t.text}" font-weight="700">Staff AI</tspan> at EchoStar in under 3 years — consumer-scale agent &amp; RAG for millions.</text>
 </g>`;
-  return frame(t, W, H, "Career timeline: Honda Innovations (2021), Lawrence Berkeley National Laboratory (2021), Walmart (2022), Apple CoreOS / File Systems (2023–2024), UC Berkeley B.A. CS 2023, Polaris Wireless (2024–2026), EchoStar Staff AI Engineer (Sep 2026–present). Offers and final rounds at Anduril and Mach Industries in 2026.", body);
+  return frame(t, W, H, "Career timeline: Honda Innovations (2021), Lawrence Berkeley National Laboratory (2021), Walmart (2022), Apple CoreOS / File Systems (2023–2024), UC Berkeley B.A. CS 2023, Polaris Wireless (2024–2026), EchoStar Staff AI Engineer (Sep 2026–present). Reached Staff AI in under 3 years; consumer-scale telecom agents and RAG for millions.", body);
 }
 
 // ─── 4. skill constellation ───────────────────────────────────────────
