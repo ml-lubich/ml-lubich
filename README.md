@@ -16,7 +16,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-dark.svg">
-    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-light.svg" width="1200" alt="Impact at a glance: 100M+ users reached with production AI, 6 published papers (ML and hydrology), 10 open-source agent tools (CLI + MCP), 5+ years shipping at Apple, Walmart, LBNL and Polaris Wireless, ex-Apple CoreOS / File Systems." />
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/impact-light.svg" width="1200" alt="Impact at a glance: 100M+ users reached with production AI, 6 published papers (ML and hydrology), 12 open-source agent tools (CLI + MCP), 5+ years shipping at Apple, Walmart, LBNL and Polaris Wireless, ex-Apple CoreOS / File Systems." />
   </picture>
 </p>
 
@@ -63,22 +63,24 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/tools-dark.svg">
-    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/tools-light.svg" width="1200" alt="Open-source agent tool family by Misha Lubich — every tool is a human CLI plus an MCP server: imsg (iMessage), imail (Apple Mail), inotes (Apple Notes), wa (WhatsApp), bb (bitbucket-cli), confluence-cli, pdfify-md, jenkins-mcp, twig (git worktrees for agent swarms), like-fable (prompt library). Homebrew tap ml-lubich/tap." />
+    <img src="https://raw.githubusercontent.com/ml-lubich/ml-lubich/main/assets/tools-light.svg" width="1200" alt="Open-source agent tool family by Misha Lubich — every tool is a human CLI plus an MCP server: imsg (iMessage), imail (Apple Mail), inotes (Apple Notes), wa (WhatsApp), bb (bitbucket-cli), confluence-cli, pdfify-md, jenkins-mcp, twig (git worktrees for agent swarms), like-fable (prompt library), ical (Calendar.app), vgate (Vercel logins). Homebrew tap ml-lubich/tap." />
   </picture>
 </p>
 
 ```bash
-brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli,pdfify-md}
-pip install jenkins-mcp-cli twig-cli
+brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli,pdfify-md,vgate,ical,jenkins-mcp,twig}
+pip install jenkins-mcp-cli twig-cli mac-ical vercel-mcp
 ```
 
 <p align="center">
   <a href="https://github.com/ml-lubich/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-ml--lubich%2Ftap-1E5FD9?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=071428" alt="Homebrew tap ml-lubich/tap" /></a>
   <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-ml--lubich-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI ml-lubich packages" /></a>
-  <a href="https://github.com/ml-lubich?tab=repositories"><img src="https://img.shields.io/badge/10_tools-CLI_%2B_MCP-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="10 tools, CLI + MCP" /></a>
+  <a href="https://github.com/ml-lubich?tab=repositories"><img src="https://img.shields.io/badge/12_tools-CLI_%2B_MCP-0A1F44?style=for-the-badge&labelColor=071428&color=1E5FD9" alt="12 tools, CLI + MCP" /></a>
 </p>
 
-[imsg](https://github.com/ml-lubich/imsg) · [imail](https://github.com/ml-lubich/imail) · [inotes](https://github.com/ml-lubich/inotes) · [wa](https://github.com/ml-lubich/whatsapp-mcp) · [bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) · [confluence-cli](https://github.com/ml-lubich/confluence-cli) · [pdfify-md](https://github.com/ml-lubich/pdfify-md) · [jenkins-mcp](https://github.com/ml-lubich/jenkins-mcp) · [twig](https://github.com/ml-lubich/twig) · [like-fable](https://github.com/ml-lubich/like-fable)
+[imsg](https://github.com/ml-lubich/imsg) · [imail](https://github.com/ml-lubich/imail) · [inotes](https://github.com/ml-lubich/inotes) · [wa](https://github.com/ml-lubich/whatsapp-mcp) · [bitbucket-cli](https://github.com/ml-lubich/bitbucket-cli) · [confluence-cli](https://github.com/ml-lubich/confluence-cli) · [pdfify-md](https://github.com/ml-lubich/pdfify-md) · [jenkins-mcp](https://github.com/ml-lubich/jenkins-mcp) · [twig](https://github.com/ml-lubich/twig) · [like-fable](https://github.com/ml-lubich/like-fable) · [ical](https://github.com/ml-lubich/ical) · [vgate](https://github.com/ml-lubich/vercel-mcp)
+
+Packages: [npm pdfify-md](https://www.npmjs.com/package/pdfify-md) · [PyPI twig-cli](https://pypi.org/project/twig-cli/) · [PyPI mac-ical](https://pypi.org/project/mac-ical/) · [PyPI vercel-mcp](https://pypi.org/project/vercel-mcp/) · [PyPI jenkins-mcp-cli](https://pypi.org/project/jenkins-mcp-cli/) · [Homebrew tap](https://github.com/ml-lubich/homebrew-tap)
 
 **Products:** [Lupfr](https://lupfr.com) (SF music events & talent) · [W3Sourcing](https://w3sourcing.com) (recruitment) · [EnrichData](https://enrichdata.net) (AI CRM enrichment) · [mishalubich.com](https://mishalubich.com)
 
