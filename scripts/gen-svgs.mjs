@@ -152,7 +152,7 @@ function impact(t) {
   const stats = [
     ["100M+", "users reached", "production AI at consumer scale"],
     ["6", "published papers", "ML & hydrology · Google Scholar"],
-    ["10", "open-source tools", "CLI + MCP · brew ml-lubich/tap"],
+    ["13", "open-source tools", "CLI + MCP · brew ml-lubich/tap"],
     ["5+", "years shipping", "Apple · Walmart · LBNL · Polaris"],
     ["ex-Apple", "CoreOS · File Systems", "APFS test automation"],
   ];
@@ -172,7 +172,7 @@ ${stats.map(([big, label, sub], i) => `
   <text x="22" y="84" fill="${t.text}" font-size="14" font-weight="700">${esc(label)}</text>
   <text x="22" y="106" fill="${t.muted}" font-size="12">${esc(sub)}</text>
 </g>`).join("")}`;
-  return frame(t, W, H, "Impact at a glance: 100M+ users reached, 6 published papers, 10 open-source agent tools, 5+ years shipping, ex-Apple CoreOS.", body);
+  return frame(t, W, H, "Impact at a glance: 100M+ users reached, 6 published papers, 13 open-source agent tools, 5+ years shipping, ex-Apple CoreOS.", body);
 }
 
 // ─── 3. career timeline ───────────────────────────────────────────────
@@ -187,7 +187,7 @@ function timeline(t) {
     { name: "LBNL", role: "Software Engineer · ML on environmental data", s: m(2021, 5), e: m(2021, 8), up: false },
     { name: "Walmart", role: "Software Engineer · ad-targeting ML", s: m(2022, 5), e: m(2022, 8), up: true },
     { name: "Apple", role: "SDET · CoreOS / File Systems (APFS)", s: m(2023, 1), e: m(2024, 7), up: false },
-    { name: "Polaris Wireless", role: "Platform & AI Engineer · MCP, vLLM, ClickHouse", s: m(2024, 9), e: m(2026, 9), up: true },
+    { name: "Polaris Wireless", role: "Platform & AI Engineer · MCP, vLLM, ClickHouse", s: m(2024, 9), e: m(2026, 7), up: true },
     { name: "EchoStar", role: "Staff AI Engineer · agents, RAG, evals at consumer scale", s: m(2026, 9), e: SPAN, up: false, now: true },
   ];
   const Y = 170;
@@ -299,11 +299,14 @@ export const TOOLS = [
   ["jenkins-mcp", "Jenkins CLI + MCP server", "pip install jenkins-mcp-cli", "Py"],
   ["twig", "git worktrees for humans & agent swarms", "pip install twig-cli", "Py · Rust"],
   ["like-fable", "portable prompt library for any AI", "gh repo clone ml-lubich/like-fable", "prompts"],
+  ["ical", "Calendar.app CLI + MCP", "brew install ml-lubich/tap/ical", "macOS"],
+  ["vgate", "switch Vercel CLI logins · CLI + MCP", "brew install ml-lubich/tap/vgate", "Py"],
+  ["own-chrome", "drive your open Chrome + LinkedIn (li)", "uv tool install git+…/own-chrome", "stdlib"],
 ];
 function tools(t) {
-  const W = 1200, H = 600;
   const cols = 2, gap = 12, x0 = 28, y0 = 64;
-  const cw = (W - x0 * 2 - gap) / cols, ch = 92;
+  const W = 1200, ch = 92, H = y0 + Math.ceil(TOOLS.length / cols) * (ch + gap) + 16;
+  const cw = (W - x0 * 2 - gap) / cols;
   const body = `
 <ellipse cx="200" cy="0" rx="320" ry="110" fill="url(#glow)" style="animation:pulse 7s ease-in-out infinite"/>
 <text x="40" y="40" fill="${t.accent}" font-size="12" font-weight="700" letter-spacing="3">OPEN-SOURCE AGENT TOOLS</text>
@@ -323,7 +326,7 @@ ${TOOLS.map(([name, desc, install, tag], i) => {
   <text class="mono" x="32" y="69" fill="${t.muted}" font-size="12"><tspan fill="${t.accent}">$</tspan> ${esc(install)}</text>
 </g>`;
   }).join("")}`;
-  return frame(t, W, H, "Open-source agent tool family by Misha Lubich: imsg, imail, inotes, wa (WhatsApp), bb (bitbucket-cli), confluence-cli, pdfify-md, jenkins-mcp, twig, like-fable — each a CLI plus an MCP server. Homebrew tap ml-lubich/tap.", body);
+  return frame(t, W, H, "Open-source agent tool family by Misha Lubich: imsg, imail, inotes, wa (WhatsApp), bb (bitbucket-cli), confluence-cli, pdfify-md, jenkins-mcp, twig, like-fable, ical, vgate, own-chrome — each a CLI plus an MCP or agent surface. Homebrew tap ml-lubich/tap.", body);
 }
 
 // ─── emit ─────────────────────────────────────────────────────────────

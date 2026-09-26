@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-label="Impact at a glance: 100M+ users reached, 6 published papers, 10 open-source agent tools, 5+ years shipping, ex-Apple CoreOS.">
-<title>Impact at a glance: 100M+ users reached, 6 published papers, 10 open-source agent tools, 5+ years shipping, ex-Apple CoreOS.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-label="Impact at a glance: 100M+ users reached, 6 published papers, 13 open-source agent tools, 5+ years shipping, ex-Apple CoreOS.">
+<title>Impact at a glance: 100M+ users reached, 6 published papers, 13 open-source agent tools, 5+ years shipping, ex-Apple CoreOS.</title>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#071428"/><stop offset="50%" stop-color="#0A1F44"/><stop offset="100%" stop-color="#10306A"/>
@@ -55,7 +55,7 @@
     <circle r="18" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" transform="rotate(-90)" stroke-dasharray="113.1" stroke-dashoffset="113.1" style="animation:dash 1.6s 0.5s cubic-bezier(.2,.7,.2,1) forwards"/>
     <circle r="4" fill="#39A7FF" style="animation:pulse 2.4s 0.6s ease-in-out infinite"/>
   </g>
-  <text x="22" y="58" fill="#39A7FF" font-size="38" font-weight="800" letter-spacing="-1">10</text>
+  <text x="22" y="58" fill="#39A7FF" font-size="38" font-weight="800" letter-spacing="-1">13</text>
   <text x="22" y="84" fill="#E6EDF3" font-size="14" font-weight="700">open-source tools</text>
   <text x="22" y="106" fill="#9FB3C8" font-size="12">CLI + MCP · brew ml-lubich/tap</text>
 </g>
