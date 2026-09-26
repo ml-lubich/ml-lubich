@@ -313,7 +313,9 @@ function tools(t) {
 <text x="1160" y="40" text-anchor="end" fill="${t.muted}" font-size="12">every tool = human CLI <tspan fill="${t.accent}" font-weight="700">+</tspan> MCP / agent surface</text>
 ${TOOLS.map(([name, desc, install, tag], i) => {
     const c = i % cols, r = Math.floor(i / cols);
-    const x = r1(x0 + c * (cw + gap)), y = y0 + r * (ch + gap);
+    // odd last card sits centered under the grid instead of hanging left
+    const lone = TOOLS.length % cols === 1 && i === TOOLS.length - 1;
+    const x = r1(lone ? (W - cw) / 2 : x0 + c * (cw + gap)), y = y0 + r * (ch + gap);
     const tw = tag.length * 6.6 + 14;
     return `
 <g class="in" style="animation-delay:${i * 0.08}s" transform="translate(${x},${y})">

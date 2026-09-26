@@ -67,12 +67,6 @@
   </picture>
 </p>
 
-```bash
-brew install ml-lubich/tap/{imsg,imail,inotes,wa,bitbucket-client,confluence-cli,pdfify-md,vgate,ical,jenkins-mcp,twig}
-pip install jenkins-mcp-cli twig-cli mac-ical vercel-mcp
-uv tool install git+https://github.com/ml-lubich/own-chrome
-```
-
 <p align="center">
   <a href="https://github.com/ml-lubich/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-ml--lubich%2Ftap-1E5FD9?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=071428" alt="Homebrew tap ml-lubich/tap" /></a>
   <a href="https://pypi.org/user/ml-lubich/"><img src="https://img.shields.io/badge/PyPI-ml--lubich-39A7FF?style=for-the-badge&logo=pypi&logoColor=white&labelColor=071428" alt="PyPI ml-lubich packages" /></a>

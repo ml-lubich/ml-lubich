@@ -136,7 +136,7 @@
   <rect x="20" y="50" width="526" height="30" rx="8" fill="#FFFFFF" stroke="#1E5FD9" stroke-opacity=".3"/>
   <text class="mono" x="32" y="69" fill="#4B5C75" font-size="12"><tspan fill="#1E5FD9">$</tspan> brew install ml-lubich/tap/vgate</text>
 </g>
-<g class="in" style="animation-delay:0.96s" transform="translate(28,688)">
+<g class="in" style="animation-delay:0.96s" transform="translate(317,688)">
   <rect width="566" height="92" rx="16" fill="#FFFFFF" stroke="#1E5FD9" stroke-opacity=".45"/>
   <rect width="566" height="92" rx="16" fill="none" stroke="#1E5FD9" stroke-opacity=".9"><animate attributeName="stroke-opacity" values="0;.9;0" dur="7.8s" begin="7.199999999999999s" repeatCount="indefinite"/></rect>
   <text class="mono" x="20" y="34" fill="#1E5FD9" font-size="19" font-weight="800">own-chrome</text>
