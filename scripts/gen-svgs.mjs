@@ -73,7 +73,7 @@ function frame(t, w, h, title, body, extraDefs = "", extraCss = "") {
   <style>
     text { font-family: ${SANS}; }
     .mono { font-family: ${MONO}; }
-    .in { opacity: 0; animation: fadeUp .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .in { opacity: 1; }
     @keyframes fadeUp { from { opacity: 0 } to { opacity: 1 } } /* opacity only: a CSS transform would override the SVG transform attr */
     @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
     @keyframes breathe { 0%,100% { transform: scale(1) } 50% { transform: scale(1.08) } }
